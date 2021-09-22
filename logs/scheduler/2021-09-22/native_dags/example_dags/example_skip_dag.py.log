@@ -1,0 +1,854 @@
+[2021-09-22 02:56:25,517] {processor.py:162} INFO - Started process (PID=18715) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 02:56:25,518] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 02:56:25,519] {logging_mixin.py:109} INFO - [2021-09-22 02:56:25,519] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 02:56:25,527] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 02:56:25,692] {logging_mixin.py:109} INFO - [2021-09-22 02:56:25,691] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 02:56:25,697] {logging_mixin.py:109} INFO - [2021-09-22 02:56:25,697] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 02:56:25,702] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.187 seconds
+[2021-09-22 03:30:04,513] {processor.py:162} INFO - Started process (PID=18802) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 03:30:04,514] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 03:30:04,516] {logging_mixin.py:109} INFO - [2021-09-22 03:30:04,515] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 03:30:04,532] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 03:46:57,950] {logging_mixin.py:109} INFO - [2021-09-22 03:46:57,949] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 03:46:57,962] {logging_mixin.py:109} INFO - [2021-09-22 03:46:57,961] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 03:46:58,047] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.263 seconds
+[2021-09-22 05:13:08,418] {processor.py:162} INFO - Started process (PID=18940) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 05:13:08,419] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 05:13:08,420] {logging_mixin.py:109} INFO - [2021-09-22 05:13:08,419] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 05:13:08,427] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 05:13:08,437] {logging_mixin.py:109} INFO - [2021-09-22 05:13:08,437] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 05:13:08,448] {logging_mixin.py:109} INFO - [2021-09-22 05:13:08,448] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 05:13:08,455] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.040 seconds
+[2021-09-22 06:52:26,238] {processor.py:162} INFO - Started process (PID=18997) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 06:52:26,240] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 06:52:26,241] {logging_mixin.py:109} INFO - [2021-09-22 06:52:26,241] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 06:52:26,256] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 06:52:26,273] {logging_mixin.py:109} INFO - [2021-09-22 06:52:26,273] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 06:52:26,282] {logging_mixin.py:109} INFO - [2021-09-22 06:52:26,281] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 06:52:26,288] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.054 seconds
+[2021-09-22 08:30:03,108] {processor.py:162} INFO - Started process (PID=19077) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 08:30:03,111] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 08:30:03,113] {logging_mixin.py:109} INFO - [2021-09-22 08:30:03,113] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 08:30:03,129] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 08:30:03,145] {logging_mixin.py:109} INFO - [2021-09-22 08:30:03,144] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 08:30:03,153] {logging_mixin.py:109} INFO - [2021-09-22 08:30:03,152] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 08:30:03,158] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2021-09-22 09:14:15,665] {processor.py:162} INFO - Started process (PID=19154) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:14:15,667] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:14:15,668] {logging_mixin.py:109} INFO - [2021-09-22 09:14:15,668] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:14:15,682] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:14:15,697] {logging_mixin.py:109} INFO - [2021-09-22 09:14:15,696] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:14:15,707] {logging_mixin.py:109} INFO - [2021-09-22 09:14:15,707] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:14:15,715] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.054 seconds
+[2021-09-22 09:14:49,537] {processor.py:162} INFO - Started process (PID=19200) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:14:49,539] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:14:49,540] {logging_mixin.py:109} INFO - [2021-09-22 09:14:49,540] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:14:49,549] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:14:49,559] {logging_mixin.py:109} INFO - [2021-09-22 09:14:49,559] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:14:49,566] {logging_mixin.py:109} INFO - [2021-09-22 09:14:49,566] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:14:49,572] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2021-09-22 09:15:23,288] {processor.py:162} INFO - Started process (PID=19244) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:15:23,292] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:15:23,294] {logging_mixin.py:109} INFO - [2021-09-22 09:15:23,293] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:15:23,310] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:15:23,325] {logging_mixin.py:109} INFO - [2021-09-22 09:15:23,324] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:15:23,333] {logging_mixin.py:109} INFO - [2021-09-22 09:15:23,333] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:15:23,339] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2021-09-22 09:15:56,477] {processor.py:162} INFO - Started process (PID=19289) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:15:56,480] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:15:56,482] {logging_mixin.py:109} INFO - [2021-09-22 09:15:56,481] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:15:56,497] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:15:56,511] {logging_mixin.py:109} INFO - [2021-09-22 09:15:56,511] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:15:56,519] {logging_mixin.py:109} INFO - [2021-09-22 09:15:56,519] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:15:56,525] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.055 seconds
+[2021-09-22 09:16:29,353] {processor.py:162} INFO - Started process (PID=19327) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:16:29,356] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:16:29,360] {logging_mixin.py:109} INFO - [2021-09-22 09:16:29,358] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:16:29,370] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:16:29,384] {logging_mixin.py:109} INFO - [2021-09-22 09:16:29,384] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:16:29,392] {logging_mixin.py:109} INFO - [2021-09-22 09:16:29,392] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:16:29,399] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.050 seconds
+[2021-09-22 09:17:03,983] {processor.py:162} INFO - Started process (PID=19362) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:17:03,985] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:17:03,986] {logging_mixin.py:109} INFO - [2021-09-22 09:17:03,986] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:17:04,000] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:17:04,011] {logging_mixin.py:109} INFO - [2021-09-22 09:17:04,011] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:17:04,019] {logging_mixin.py:109} INFO - [2021-09-22 09:17:04,019] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:17:04,025] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.044 seconds
+[2021-09-22 09:17:37,681] {processor.py:162} INFO - Started process (PID=19396) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:17:37,682] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:17:37,683] {logging_mixin.py:109} INFO - [2021-09-22 09:17:37,683] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:17:37,693] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:17:37,704] {logging_mixin.py:109} INFO - [2021-09-22 09:17:37,704] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:17:37,711] {logging_mixin.py:109} INFO - [2021-09-22 09:17:37,710] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:17:37,716] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.039 seconds
+[2021-09-22 09:18:11,159] {processor.py:162} INFO - Started process (PID=19431) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:18:11,163] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:18:11,165] {logging_mixin.py:109} INFO - [2021-09-22 09:18:11,164] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:18:11,184] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:18:11,200] {logging_mixin.py:109} INFO - [2021-09-22 09:18:11,200] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:18:11,209] {logging_mixin.py:109} INFO - [2021-09-22 09:18:11,209] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:18:11,216] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.063 seconds
+[2021-09-22 09:18:43,578] {processor.py:162} INFO - Started process (PID=19464) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:18:43,580] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:18:43,581] {logging_mixin.py:109} INFO - [2021-09-22 09:18:43,581] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:18:43,590] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:18:43,600] {logging_mixin.py:109} INFO - [2021-09-22 09:18:43,599] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:18:43,607] {logging_mixin.py:109} INFO - [2021-09-22 09:18:43,606] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:18:43,612] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2021-09-22 09:19:16,461] {processor.py:162} INFO - Started process (PID=19500) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:19:16,465] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:19:16,466] {logging_mixin.py:109} INFO - [2021-09-22 09:19:16,466] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:19:16,482] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:19:16,500] {logging_mixin.py:109} INFO - [2021-09-22 09:19:16,499] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:19:16,508] {logging_mixin.py:109} INFO - [2021-09-22 09:19:16,508] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:19:16,525] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.071 seconds
+[2021-09-22 09:19:51,289] {processor.py:162} INFO - Started process (PID=19544) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:19:51,291] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:19:51,294] {logging_mixin.py:109} INFO - [2021-09-22 09:19:51,293] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:19:51,312] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:19:51,327] {logging_mixin.py:109} INFO - [2021-09-22 09:19:51,326] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:19:51,337] {logging_mixin.py:109} INFO - [2021-09-22 09:19:51,337] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:19:51,344] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.060 seconds
+[2021-09-22 09:20:25,297] {processor.py:162} INFO - Started process (PID=19578) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:20:25,300] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:20:25,301] {logging_mixin.py:109} INFO - [2021-09-22 09:20:25,301] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:20:25,314] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:20:25,325] {logging_mixin.py:109} INFO - [2021-09-22 09:20:25,325] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:20:25,332] {logging_mixin.py:109} INFO - [2021-09-22 09:20:25,332] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:20:25,337] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.044 seconds
+[2021-09-22 09:20:57,955] {processor.py:162} INFO - Started process (PID=19612) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:20:57,957] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:20:57,959] {logging_mixin.py:109} INFO - [2021-09-22 09:20:57,959] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:20:57,968] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:20:57,979] {logging_mixin.py:109} INFO - [2021-09-22 09:20:57,979] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:20:57,986] {logging_mixin.py:109} INFO - [2021-09-22 09:20:57,986] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:20:57,993] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.044 seconds
+[2021-09-22 09:21:30,498] {processor.py:162} INFO - Started process (PID=19644) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:21:30,501] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:21:30,504] {logging_mixin.py:109} INFO - [2021-09-22 09:21:30,503] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:21:30,519] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:21:30,533] {logging_mixin.py:109} INFO - [2021-09-22 09:21:30,532] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:21:30,541] {logging_mixin.py:109} INFO - [2021-09-22 09:21:30,540] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:21:30,547] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.055 seconds
+[2021-09-22 09:22:04,494] {processor.py:162} INFO - Started process (PID=19679) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:22:04,497] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:22:04,499] {logging_mixin.py:109} INFO - [2021-09-22 09:22:04,499] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:22:04,516] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:22:04,533] {logging_mixin.py:109} INFO - [2021-09-22 09:22:04,533] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:22:04,542] {logging_mixin.py:109} INFO - [2021-09-22 09:22:04,542] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:22:04,549] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.063 seconds
+[2021-09-22 09:22:37,031] {processor.py:162} INFO - Started process (PID=19714) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:22:37,034] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:22:37,036] {logging_mixin.py:109} INFO - [2021-09-22 09:22:37,035] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:22:37,050] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:22:37,064] {logging_mixin.py:109} INFO - [2021-09-22 09:22:37,064] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:22:37,073] {logging_mixin.py:109} INFO - [2021-09-22 09:22:37,072] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:22:37,078] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.054 seconds
+[2021-09-22 09:23:11,591] {processor.py:162} INFO - Started process (PID=19761) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:23:11,594] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:23:11,596] {logging_mixin.py:109} INFO - [2021-09-22 09:23:11,595] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:23:11,613] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:23:11,629] {logging_mixin.py:109} INFO - [2021-09-22 09:23:11,628] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:23:11,637] {logging_mixin.py:109} INFO - [2021-09-22 09:23:11,636] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:23:11,647] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.061 seconds
+[2021-09-22 09:23:43,828] {processor.py:162} INFO - Started process (PID=19810) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:23:43,832] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:23:43,834] {logging_mixin.py:109} INFO - [2021-09-22 09:23:43,833] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:23:43,847] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:23:43,862] {logging_mixin.py:109} INFO - [2021-09-22 09:23:43,862] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:23:43,872] {logging_mixin.py:109} INFO - [2021-09-22 09:23:43,870] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:23:43,879] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.054 seconds
+[2021-09-22 09:24:15,090] {processor.py:162} INFO - Started process (PID=19846) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:24:15,093] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:24:15,094] {logging_mixin.py:109} INFO - [2021-09-22 09:24:15,094] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:24:15,108] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:24:15,125] {logging_mixin.py:109} INFO - [2021-09-22 09:24:15,121] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:24:15,135] {logging_mixin.py:109} INFO - [2021-09-22 09:24:15,134] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:24:15,141] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.054 seconds
+[2021-09-22 09:24:47,837] {processor.py:162} INFO - Started process (PID=19879) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:24:47,840] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:24:47,842] {logging_mixin.py:109} INFO - [2021-09-22 09:24:47,841] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:24:47,858] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:24:47,872] {logging_mixin.py:109} INFO - [2021-09-22 09:24:47,871] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:24:47,880] {logging_mixin.py:109} INFO - [2021-09-22 09:24:47,880] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:24:47,886] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.055 seconds
+[2021-09-22 09:25:22,701] {processor.py:162} INFO - Started process (PID=19917) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:25:22,704] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:25:22,706] {logging_mixin.py:109} INFO - [2021-09-22 09:25:22,705] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:25:22,723] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:25:22,738] {logging_mixin.py:109} INFO - [2021-09-22 09:25:22,737] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:25:22,747] {logging_mixin.py:109} INFO - [2021-09-22 09:25:22,746] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:25:22,753] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.060 seconds
+[2021-09-22 09:25:55,759] {processor.py:162} INFO - Started process (PID=19950) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:25:55,762] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:25:55,763] {logging_mixin.py:109} INFO - [2021-09-22 09:25:55,763] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:25:55,778] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:25:55,791] {logging_mixin.py:109} INFO - [2021-09-22 09:25:55,790] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:25:55,798] {logging_mixin.py:109} INFO - [2021-09-22 09:25:55,798] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:25:55,804] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.050 seconds
+[2021-09-22 09:26:28,484] {processor.py:162} INFO - Started process (PID=19986) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:26:28,486] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:26:28,488] {logging_mixin.py:109} INFO - [2021-09-22 09:26:28,487] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:26:28,500] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:26:28,513] {logging_mixin.py:109} INFO - [2021-09-22 09:26:28,513] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:26:28,522] {logging_mixin.py:109} INFO - [2021-09-22 09:26:28,521] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:26:28,528] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.048 seconds
+[2021-09-22 09:27:04,022] {processor.py:162} INFO - Started process (PID=20020) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:27:04,025] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:27:04,027] {logging_mixin.py:109} INFO - [2021-09-22 09:27:04,026] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:27:04,043] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:27:04,057] {logging_mixin.py:109} INFO - [2021-09-22 09:27:04,057] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:27:04,066] {logging_mixin.py:109} INFO - [2021-09-22 09:27:04,066] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:27:04,072] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2021-09-22 09:27:39,187] {processor.py:162} INFO - Started process (PID=20055) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:27:39,190] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:27:39,192] {logging_mixin.py:109} INFO - [2021-09-22 09:27:39,191] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:27:39,207] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:27:39,220] {logging_mixin.py:109} INFO - [2021-09-22 09:27:39,220] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:27:39,228] {logging_mixin.py:109} INFO - [2021-09-22 09:27:39,228] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:27:39,233] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.051 seconds
+[2021-09-22 09:28:12,673] {processor.py:162} INFO - Started process (PID=20088) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:28:12,676] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:28:12,678] {logging_mixin.py:109} INFO - [2021-09-22 09:28:12,677] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:28:12,693] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:28:12,707] {logging_mixin.py:109} INFO - [2021-09-22 09:28:12,706] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:28:12,714] {logging_mixin.py:109} INFO - [2021-09-22 09:28:12,714] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:28:12,720] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.052 seconds
+[2021-09-22 09:28:44,948] {processor.py:162} INFO - Started process (PID=20120) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:28:44,949] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:28:44,950] {logging_mixin.py:109} INFO - [2021-09-22 09:28:44,950] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:28:44,962] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:28:44,972] {logging_mixin.py:109} INFO - [2021-09-22 09:28:44,972] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:28:44,979] {logging_mixin.py:109} INFO - [2021-09-22 09:28:44,979] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:28:44,985] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.041 seconds
+[2021-09-22 09:29:17,530] {processor.py:162} INFO - Started process (PID=20152) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:29:17,532] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:29:17,533] {logging_mixin.py:109} INFO - [2021-09-22 09:29:17,533] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:29:17,546] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:29:17,559] {logging_mixin.py:109} INFO - [2021-09-22 09:29:17,558] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:29:17,566] {logging_mixin.py:109} INFO - [2021-09-22 09:29:17,566] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:29:17,572] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.046 seconds
+[2021-09-22 09:29:50,233] {processor.py:162} INFO - Started process (PID=20184) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:29:50,235] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:29:50,237] {logging_mixin.py:109} INFO - [2021-09-22 09:29:50,236] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:29:50,249] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:29:50,261] {logging_mixin.py:109} INFO - [2021-09-22 09:29:50,261] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:29:50,268] {logging_mixin.py:109} INFO - [2021-09-22 09:29:50,268] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:29:50,273] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.045 seconds
+[2021-09-22 09:30:21,995] {processor.py:162} INFO - Started process (PID=20223) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:30:21,997] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:30:21,998] {logging_mixin.py:109} INFO - [2021-09-22 09:30:21,998] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:30:22,008] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:30:22,023] {logging_mixin.py:109} INFO - [2021-09-22 09:30:22,020] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:30:22,036] {logging_mixin.py:109} INFO - [2021-09-22 09:30:22,035] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:30:22,041] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.052 seconds
+[2021-09-22 09:30:56,897] {processor.py:162} INFO - Started process (PID=20271) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:30:56,900] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:30:56,903] {logging_mixin.py:109} INFO - [2021-09-22 09:30:56,902] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:30:56,919] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:30:56,934] {logging_mixin.py:109} INFO - [2021-09-22 09:30:56,934] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:30:56,942] {logging_mixin.py:109} INFO - [2021-09-22 09:30:56,942] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:30:56,948] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2021-09-22 09:31:32,228] {processor.py:162} INFO - Started process (PID=20304) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:31:32,231] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:31:32,233] {logging_mixin.py:109} INFO - [2021-09-22 09:31:32,232] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:31:32,247] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:31:32,262] {logging_mixin.py:109} INFO - [2021-09-22 09:31:32,262] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:31:32,271] {logging_mixin.py:109} INFO - [2021-09-22 09:31:32,271] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:31:32,277] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.054 seconds
+[2021-09-22 09:32:07,047] {processor.py:162} INFO - Started process (PID=20340) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:32:07,050] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:32:07,052] {logging_mixin.py:109} INFO - [2021-09-22 09:32:07,052] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:32:07,069] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:32:07,084] {logging_mixin.py:109} INFO - [2021-09-22 09:32:07,083] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:32:07,092] {logging_mixin.py:109} INFO - [2021-09-22 09:32:07,092] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:32:07,099] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2021-09-22 09:32:41,321] {processor.py:162} INFO - Started process (PID=20374) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:32:41,324] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:32:41,326] {logging_mixin.py:109} INFO - [2021-09-22 09:32:41,325] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:32:41,342] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:32:41,360] {logging_mixin.py:109} INFO - [2021-09-22 09:32:41,359] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:32:41,369] {logging_mixin.py:109} INFO - [2021-09-22 09:32:41,368] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:32:41,374] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.059 seconds
+[2021-09-22 09:33:16,347] {processor.py:162} INFO - Started process (PID=20414) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:33:16,349] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:33:16,351] {logging_mixin.py:109} INFO - [2021-09-22 09:33:16,350] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:33:16,366] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:33:16,379] {logging_mixin.py:109} INFO - [2021-09-22 09:33:16,379] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:33:16,387] {logging_mixin.py:109} INFO - [2021-09-22 09:33:16,386] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:33:16,393] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.050 seconds
+[2021-09-22 09:33:48,392] {processor.py:162} INFO - Started process (PID=20450) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:33:48,395] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:33:48,397] {logging_mixin.py:109} INFO - [2021-09-22 09:33:48,396] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:33:48,410] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:33:48,422] {logging_mixin.py:109} INFO - [2021-09-22 09:33:48,421] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:33:48,429] {logging_mixin.py:109} INFO - [2021-09-22 09:33:48,428] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:33:48,434] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.045 seconds
+[2021-09-22 09:34:22,007] {processor.py:162} INFO - Started process (PID=20482) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:34:22,009] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:34:22,010] {logging_mixin.py:109} INFO - [2021-09-22 09:34:22,010] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:34:22,024] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:34:22,036] {logging_mixin.py:109} INFO - [2021-09-22 09:34:22,036] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:34:22,043] {logging_mixin.py:109} INFO - [2021-09-22 09:34:22,043] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:34:22,049] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.047 seconds
+[2021-09-22 09:34:54,602] {processor.py:162} INFO - Started process (PID=20514) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:34:54,605] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:34:54,606] {logging_mixin.py:109} INFO - [2021-09-22 09:34:54,606] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:34:54,620] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:34:54,632] {logging_mixin.py:109} INFO - [2021-09-22 09:34:54,632] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:34:54,640] {logging_mixin.py:109} INFO - [2021-09-22 09:34:54,639] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:34:54,645] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.047 seconds
+[2021-09-22 09:35:26,369] {processor.py:162} INFO - Started process (PID=20548) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:35:26,370] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:35:26,371] {logging_mixin.py:109} INFO - [2021-09-22 09:35:26,371] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:35:26,379] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:35:26,386] {logging_mixin.py:109} INFO - [2021-09-22 09:35:26,386] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:35:26,392] {logging_mixin.py:109} INFO - [2021-09-22 09:35:26,391] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:35:26,396] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.029 seconds
+[2021-09-22 09:35:58,984] {processor.py:162} INFO - Started process (PID=20580) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:35:58,987] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:35:58,989] {logging_mixin.py:109} INFO - [2021-09-22 09:35:58,988] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:35:59,004] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:35:59,018] {logging_mixin.py:109} INFO - [2021-09-22 09:35:59,018] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:35:59,026] {logging_mixin.py:109} INFO - [2021-09-22 09:35:59,026] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:35:59,032] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.053 seconds
+[2021-09-22 09:36:32,366] {processor.py:162} INFO - Started process (PID=20614) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:36:32,368] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:36:32,370] {logging_mixin.py:109} INFO - [2021-09-22 09:36:32,369] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:36:32,386] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:36:32,401] {logging_mixin.py:109} INFO - [2021-09-22 09:36:32,401] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:36:32,410] {logging_mixin.py:109} INFO - [2021-09-22 09:36:32,410] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:36:32,416] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.055 seconds
+[2021-09-22 09:37:06,275] {processor.py:162} INFO - Started process (PID=20650) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:37:06,278] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:37:06,279] {logging_mixin.py:109} INFO - [2021-09-22 09:37:06,279] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:37:06,292] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:37:06,304] {logging_mixin.py:109} INFO - [2021-09-22 09:37:06,304] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:37:06,311] {logging_mixin.py:109} INFO - [2021-09-22 09:37:06,311] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:37:06,317] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.045 seconds
+[2021-09-22 09:37:42,504] {processor.py:162} INFO - Started process (PID=20685) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:37:42,507] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:37:42,508] {logging_mixin.py:109} INFO - [2021-09-22 09:37:42,508] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:37:42,524] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:37:42,540] {logging_mixin.py:109} INFO - [2021-09-22 09:37:42,540] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:37:42,558] {logging_mixin.py:109} INFO - [2021-09-22 09:37:42,558] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:37:42,565] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.066 seconds
+[2021-09-22 09:38:17,688] {processor.py:162} INFO - Started process (PID=20721) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:38:17,690] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:38:17,692] {logging_mixin.py:109} INFO - [2021-09-22 09:38:17,691] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:38:17,707] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:38:17,722] {logging_mixin.py:109} INFO - [2021-09-22 09:38:17,721] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:38:17,730] {logging_mixin.py:109} INFO - [2021-09-22 09:38:17,730] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:38:17,736] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.053 seconds
+[2021-09-22 09:38:48,587] {processor.py:162} INFO - Started process (PID=20754) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:38:48,588] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:38:48,589] {logging_mixin.py:109} INFO - [2021-09-22 09:38:48,589] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:38:48,596] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:38:48,603] {logging_mixin.py:109} INFO - [2021-09-22 09:38:48,603] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:38:48,609] {logging_mixin.py:109} INFO - [2021-09-22 09:38:48,609] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:38:48,615] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.031 seconds
+[2021-09-22 09:39:21,919] {processor.py:162} INFO - Started process (PID=20786) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:39:21,922] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:39:21,923] {logging_mixin.py:109} INFO - [2021-09-22 09:39:21,923] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:39:21,938] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:39:21,951] {logging_mixin.py:109} INFO - [2021-09-22 09:39:21,950] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:39:21,958] {logging_mixin.py:109} INFO - [2021-09-22 09:39:21,958] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:39:21,963] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.049 seconds
+[2021-09-22 09:39:55,608] {processor.py:162} INFO - Started process (PID=20819) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:39:55,611] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:39:55,613] {logging_mixin.py:109} INFO - [2021-09-22 09:39:55,612] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:39:55,626] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:39:55,639] {logging_mixin.py:109} INFO - [2021-09-22 09:39:55,639] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:39:55,646] {logging_mixin.py:109} INFO - [2021-09-22 09:39:55,646] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:39:55,652] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.048 seconds
+[2021-09-22 09:40:29,020] {processor.py:162} INFO - Started process (PID=20853) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:40:29,024] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:40:29,025] {logging_mixin.py:109} INFO - [2021-09-22 09:40:29,025] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:40:29,042] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:40:29,056] {logging_mixin.py:109} INFO - [2021-09-22 09:40:29,055] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:40:29,064] {logging_mixin.py:109} INFO - [2021-09-22 09:40:29,064] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:40:29,069] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.055 seconds
+[2021-09-22 09:41:02,886] {processor.py:162} INFO - Started process (PID=20891) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:41:02,889] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:41:02,891] {logging_mixin.py:109} INFO - [2021-09-22 09:41:02,890] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:41:02,905] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:41:02,918] {logging_mixin.py:109} INFO - [2021-09-22 09:41:02,918] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:41:02,925] {logging_mixin.py:109} INFO - [2021-09-22 09:41:02,925] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:41:02,931] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.050 seconds
+[2021-09-22 09:41:37,507] {processor.py:162} INFO - Started process (PID=20924) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:41:37,509] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:41:37,511] {logging_mixin.py:109} INFO - [2021-09-22 09:41:37,510] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:41:37,524] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:41:37,536] {logging_mixin.py:109} INFO - [2021-09-22 09:41:37,536] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:41:37,543] {logging_mixin.py:109} INFO - [2021-09-22 09:41:37,542] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:41:37,548] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.045 seconds
+[2021-09-22 09:42:12,655] {processor.py:162} INFO - Started process (PID=20958) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:42:12,658] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:42:12,660] {logging_mixin.py:109} INFO - [2021-09-22 09:42:12,659] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:42:12,677] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:42:12,692] {logging_mixin.py:109} INFO - [2021-09-22 09:42:12,691] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:42:12,700] {logging_mixin.py:109} INFO - [2021-09-22 09:42:12,700] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:42:12,706] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2021-09-22 09:42:46,831] {processor.py:162} INFO - Started process (PID=20994) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:42:46,834] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:42:46,836] {logging_mixin.py:109} INFO - [2021-09-22 09:42:46,835] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:42:46,852] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:42:46,865] {logging_mixin.py:109} INFO - [2021-09-22 09:42:46,865] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:42:46,873] {logging_mixin.py:109} INFO - [2021-09-22 09:42:46,873] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:42:46,878] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.054 seconds
+[2021-09-22 09:43:21,923] {processor.py:162} INFO - Started process (PID=21028) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:43:21,926] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:43:21,927] {logging_mixin.py:109} INFO - [2021-09-22 09:43:21,927] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:43:21,945] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:43:21,961] {logging_mixin.py:109} INFO - [2021-09-22 09:43:21,961] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:43:21,972] {logging_mixin.py:109} INFO - [2021-09-22 09:43:21,972] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:43:21,978] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.061 seconds
+[2021-09-22 09:43:53,987] {processor.py:162} INFO - Started process (PID=21072) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:43:53,989] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:43:53,991] {logging_mixin.py:109} INFO - [2021-09-22 09:43:53,990] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:43:54,004] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:43:54,020] {logging_mixin.py:109} INFO - [2021-09-22 09:43:54,019] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:43:54,028] {logging_mixin.py:109} INFO - [2021-09-22 09:43:54,028] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:43:54,034] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.050 seconds
+[2021-09-22 09:44:26,631] {processor.py:162} INFO - Started process (PID=21107) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:44:26,634] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:44:26,635] {logging_mixin.py:109} INFO - [2021-09-22 09:44:26,635] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:44:26,647] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:44:26,659] {logging_mixin.py:109} INFO - [2021-09-22 09:44:26,659] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:44:26,666] {logging_mixin.py:109} INFO - [2021-09-22 09:44:26,666] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:44:26,671] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.044 seconds
+[2021-09-22 09:45:00,142] {processor.py:162} INFO - Started process (PID=21140) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:45:00,145] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:45:00,146] {logging_mixin.py:109} INFO - [2021-09-22 09:45:00,146] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:45:00,159] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:45:00,172] {logging_mixin.py:109} INFO - [2021-09-22 09:45:00,172] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:45:00,179] {logging_mixin.py:109} INFO - [2021-09-22 09:45:00,179] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:45:00,184] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.046 seconds
+[2021-09-22 09:45:31,316] {processor.py:162} INFO - Started process (PID=21171) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:45:31,318] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:45:31,319] {logging_mixin.py:109} INFO - [2021-09-22 09:45:31,319] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:45:31,332] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:45:31,344] {logging_mixin.py:109} INFO - [2021-09-22 09:45:31,344] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:45:31,351] {logging_mixin.py:109} INFO - [2021-09-22 09:45:31,351] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:45:31,356] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.045 seconds
+[2021-09-22 09:46:04,071] {processor.py:162} INFO - Started process (PID=21212) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:46:04,074] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:46:04,076] {logging_mixin.py:109} INFO - [2021-09-22 09:46:04,076] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:46:04,092] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:46:04,106] {logging_mixin.py:109} INFO - [2021-09-22 09:46:04,106] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:46:04,115] {logging_mixin.py:109} INFO - [2021-09-22 09:46:04,114] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:46:04,120] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2021-09-22 09:46:36,614] {processor.py:162} INFO - Started process (PID=21247) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:46:36,618] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:46:36,620] {logging_mixin.py:109} INFO - [2021-09-22 09:46:36,619] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:46:36,636] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:46:36,651] {logging_mixin.py:109} INFO - [2021-09-22 09:46:36,651] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:46:36,660] {logging_mixin.py:109} INFO - [2021-09-22 09:46:36,660] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:46:36,666] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.059 seconds
+[2021-09-22 09:47:11,102] {processor.py:162} INFO - Started process (PID=21280) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:47:11,104] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:47:11,106] {logging_mixin.py:109} INFO - [2021-09-22 09:47:11,106] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:47:11,121] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:47:11,135] {logging_mixin.py:109} INFO - [2021-09-22 09:47:11,134] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:47:11,142] {logging_mixin.py:109} INFO - [2021-09-22 09:47:11,142] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:47:11,148] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.051 seconds
+[2021-09-22 09:47:43,661] {processor.py:162} INFO - Started process (PID=21313) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:47:43,663] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:47:43,665] {logging_mixin.py:109} INFO - [2021-09-22 09:47:43,665] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:47:43,678] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:47:43,690] {logging_mixin.py:109} INFO - [2021-09-22 09:47:43,689] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:47:43,696] {logging_mixin.py:109} INFO - [2021-09-22 09:47:43,696] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:47:43,701] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.045 seconds
+[2021-09-22 09:48:15,817] {processor.py:162} INFO - Started process (PID=21349) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:48:15,819] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:48:15,821] {logging_mixin.py:109} INFO - [2021-09-22 09:48:15,821] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:48:15,836] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:48:15,849] {logging_mixin.py:109} INFO - [2021-09-22 09:48:15,849] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:48:15,857] {logging_mixin.py:109} INFO - [2021-09-22 09:48:15,857] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:48:15,862] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.051 seconds
+[2021-09-22 09:48:49,497] {processor.py:162} INFO - Started process (PID=21382) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:48:49,500] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 09:48:49,502] {logging_mixin.py:109} INFO - [2021-09-22 09:48:49,501] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:48:49,517] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 09:48:49,530] {logging_mixin.py:109} INFO - [2021-09-22 09:48:49,530] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:48:49,538] {logging_mixin.py:109} INFO - [2021-09-22 09:48:49,538] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 09:48:49,543] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.051 seconds
+[2021-09-22 10:19:48,709] {processor.py:162} INFO - Started process (PID=21469) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:19:48,712] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:19:48,713] {logging_mixin.py:109} INFO - [2021-09-22 10:19:48,713] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:19:48,725] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:19:48,737] {logging_mixin.py:109} INFO - [2021-09-22 10:19:48,737] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:19:48,746] {logging_mixin.py:109} INFO - [2021-09-22 10:19:48,746] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:19:48,752] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.046 seconds
+[2021-09-22 10:20:23,511] {processor.py:162} INFO - Started process (PID=21515) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:20:23,514] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:20:23,515] {logging_mixin.py:109} INFO - [2021-09-22 10:20:23,515] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:20:23,537] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:20:23,549] {logging_mixin.py:109} INFO - [2021-09-22 10:20:23,549] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:20:23,557] {logging_mixin.py:109} INFO - [2021-09-22 10:20:23,557] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:20:23,562] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.055 seconds
+[2021-09-22 10:20:56,716] {processor.py:162} INFO - Started process (PID=21549) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:20:56,718] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:20:56,720] {logging_mixin.py:109} INFO - [2021-09-22 10:20:56,719] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:20:56,732] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:20:56,744] {logging_mixin.py:109} INFO - [2021-09-22 10:20:56,744] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:20:56,751] {logging_mixin.py:109} INFO - [2021-09-22 10:20:56,751] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:20:56,757] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.045 seconds
+[2021-09-22 10:21:31,358] {processor.py:162} INFO - Started process (PID=21584) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:21:31,360] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:21:31,361] {logging_mixin.py:109} INFO - [2021-09-22 10:21:31,360] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:21:31,374] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:21:31,386] {logging_mixin.py:109} INFO - [2021-09-22 10:21:31,386] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:21:31,394] {logging_mixin.py:109} INFO - [2021-09-22 10:21:31,394] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:21:31,401] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.047 seconds
+[2021-09-22 10:22:05,153] {processor.py:162} INFO - Started process (PID=21630) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:22:05,156] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:22:05,157] {logging_mixin.py:109} INFO - [2021-09-22 10:22:05,157] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:22:05,173] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:22:05,186] {logging_mixin.py:109} INFO - [2021-09-22 10:22:05,186] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:22:05,195] {logging_mixin.py:109} INFO - [2021-09-22 10:22:05,195] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:22:05,201] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.054 seconds
+[2021-09-22 10:22:40,125] {processor.py:162} INFO - Started process (PID=21662) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:22:40,126] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:22:40,127] {logging_mixin.py:109} INFO - [2021-09-22 10:22:40,127] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:22:40,140] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:22:40,154] {logging_mixin.py:109} INFO - [2021-09-22 10:22:40,154] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:22:40,162] {logging_mixin.py:109} INFO - [2021-09-22 10:22:40,162] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:22:40,168] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.047 seconds
+[2021-09-22 10:23:14,803] {processor.py:162} INFO - Started process (PID=21694) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:23:14,806] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:23:14,808] {logging_mixin.py:109} INFO - [2021-09-22 10:23:14,808] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:23:14,825] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:23:14,841] {logging_mixin.py:109} INFO - [2021-09-22 10:23:14,841] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:23:14,849] {logging_mixin.py:109} INFO - [2021-09-22 10:23:14,849] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:23:14,855] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.059 seconds
+[2021-09-22 10:23:47,399] {processor.py:162} INFO - Started process (PID=21733) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:23:47,401] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:23:47,403] {logging_mixin.py:109} INFO - [2021-09-22 10:23:47,402] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:23:47,416] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:23:47,435] {logging_mixin.py:109} INFO - [2021-09-22 10:23:47,434] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:23:47,443] {logging_mixin.py:109} INFO - [2021-09-22 10:23:47,442] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:23:47,448] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2021-09-22 10:24:22,000] {processor.py:162} INFO - Started process (PID=21777) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:24:22,003] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:24:22,004] {logging_mixin.py:109} INFO - [2021-09-22 10:24:22,004] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:24:22,017] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:24:22,029] {logging_mixin.py:109} INFO - [2021-09-22 10:24:22,028] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:24:22,036] {logging_mixin.py:109} INFO - [2021-09-22 10:24:22,035] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:24:22,042] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.045 seconds
+[2021-09-22 10:24:55,882] {processor.py:162} INFO - Started process (PID=21809) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:24:55,887] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:24:55,889] {logging_mixin.py:109} INFO - [2021-09-22 10:24:55,888] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:24:55,902] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:24:55,916] {logging_mixin.py:109} INFO - [2021-09-22 10:24:55,915] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:24:55,925] {logging_mixin.py:109} INFO - [2021-09-22 10:24:55,925] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:24:55,935] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2021-09-22 10:25:28,834] {processor.py:162} INFO - Started process (PID=21842) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:25:28,836] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:25:28,837] {logging_mixin.py:109} INFO - [2021-09-22 10:25:28,837] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:25:28,851] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:25:28,862] {logging_mixin.py:109} INFO - [2021-09-22 10:25:28,862] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:25:28,872] {logging_mixin.py:109} INFO - [2021-09-22 10:25:28,871] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:25:28,877] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.048 seconds
+[2021-09-22 10:26:02,898] {processor.py:162} INFO - Started process (PID=21876) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:26:02,900] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:26:02,902] {logging_mixin.py:109} INFO - [2021-09-22 10:26:02,901] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:26:02,915] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:26:02,928] {logging_mixin.py:109} INFO - [2021-09-22 10:26:02,928] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:26:02,936] {logging_mixin.py:109} INFO - [2021-09-22 10:26:02,936] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:26:02,942] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.049 seconds
+[2021-09-22 10:26:36,308] {processor.py:162} INFO - Started process (PID=21926) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:26:36,310] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:26:36,312] {logging_mixin.py:109} INFO - [2021-09-22 10:26:36,311] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:26:36,324] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:26:36,335] {logging_mixin.py:109} INFO - [2021-09-22 10:26:36,335] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:26:36,342] {logging_mixin.py:109} INFO - [2021-09-22 10:26:36,342] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:26:36,347] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.043 seconds
+[2021-09-22 10:27:09,990] {processor.py:162} INFO - Started process (PID=21970) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:27:09,993] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:27:09,994] {logging_mixin.py:109} INFO - [2021-09-22 10:27:09,994] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:27:10,009] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:27:10,024] {logging_mixin.py:109} INFO - [2021-09-22 10:27:10,024] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:27:10,032] {logging_mixin.py:109} INFO - [2021-09-22 10:27:10,032] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:27:10,037] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.053 seconds
+[2021-09-22 10:27:40,901] {processor.py:162} INFO - Started process (PID=22016) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:27:40,903] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:27:40,904] {logging_mixin.py:109} INFO - [2021-09-22 10:27:40,904] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:27:40,914] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:27:40,924] {logging_mixin.py:109} INFO - [2021-09-22 10:27:40,924] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:27:40,931] {logging_mixin.py:109} INFO - [2021-09-22 10:27:40,930] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:27:40,935] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.037 seconds
+[2021-09-22 10:28:13,020] {processor.py:162} INFO - Started process (PID=22047) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:28:13,022] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:28:13,024] {logging_mixin.py:109} INFO - [2021-09-22 10:28:13,023] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:28:13,038] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:28:13,051] {logging_mixin.py:109} INFO - [2021-09-22 10:28:13,051] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:28:13,058] {logging_mixin.py:109} INFO - [2021-09-22 10:28:13,058] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:28:13,064] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.048 seconds
+[2021-09-22 10:28:53,339] {processor.py:162} INFO - Started process (PID=22089) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:28:53,342] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:28:53,344] {logging_mixin.py:109} INFO - [2021-09-22 10:28:53,343] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:28:53,360] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:28:53,374] {logging_mixin.py:109} INFO - [2021-09-22 10:28:53,373] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:28:53,388] {logging_mixin.py:109} INFO - [2021-09-22 10:28:53,385] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:28:53,395] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.061 seconds
+[2021-09-22 10:29:34,115] {processor.py:162} INFO - Started process (PID=22125) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:29:34,118] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:29:34,120] {logging_mixin.py:109} INFO - [2021-09-22 10:29:34,119] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:29:34,137] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:29:34,166] {logging_mixin.py:109} INFO - [2021-09-22 10:29:34,165] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:29:34,176] {logging_mixin.py:109} INFO - [2021-09-22 10:29:34,176] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:29:34,183] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.074 seconds
+[2021-09-22 10:30:14,298] {processor.py:162} INFO - Started process (PID=22166) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:30:14,301] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:30:14,303] {logging_mixin.py:109} INFO - [2021-09-22 10:30:14,302] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:30:14,319] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:30:14,334] {logging_mixin.py:109} INFO - [2021-09-22 10:30:14,333] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:30:14,342] {logging_mixin.py:109} INFO - [2021-09-22 10:30:14,342] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:30:14,347] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.055 seconds
+[2021-09-22 10:30:53,680] {processor.py:162} INFO - Started process (PID=22207) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:30:53,683] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:30:53,684] {logging_mixin.py:109} INFO - [2021-09-22 10:30:53,684] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:30:53,695] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:30:53,706] {logging_mixin.py:109} INFO - [2021-09-22 10:30:53,705] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:30:53,712] {logging_mixin.py:109} INFO - [2021-09-22 10:30:53,712] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:30:53,717] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.040 seconds
+[2021-09-22 10:31:37,332] {processor.py:162} INFO - Started process (PID=22254) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:31:37,335] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:31:37,337] {logging_mixin.py:109} INFO - [2021-09-22 10:31:37,336] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:31:37,352] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:31:37,369] {logging_mixin.py:109} INFO - [2021-09-22 10:31:37,368] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:31:37,378] {logging_mixin.py:109} INFO - [2021-09-22 10:31:37,377] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:31:37,383] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2021-09-22 10:32:16,499] {processor.py:162} INFO - Started process (PID=22291) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:32:16,502] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:32:16,504] {logging_mixin.py:109} INFO - [2021-09-22 10:32:16,504] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:32:16,519] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:32:16,533] {logging_mixin.py:109} INFO - [2021-09-22 10:32:16,532] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:32:16,540] {logging_mixin.py:109} INFO - [2021-09-22 10:32:16,540] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:32:16,546] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.052 seconds
+[2021-09-22 10:32:53,809] {processor.py:162} INFO - Started process (PID=22335) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:32:53,811] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:32:53,812] {logging_mixin.py:109} INFO - [2021-09-22 10:32:53,812] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:32:53,822] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:32:53,831] {logging_mixin.py:109} INFO - [2021-09-22 10:32:53,831] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:32:53,837] {logging_mixin.py:109} INFO - [2021-09-22 10:32:53,837] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:32:53,842] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.035 seconds
+[2021-09-22 10:33:33,906] {processor.py:162} INFO - Started process (PID=22390) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:33:33,909] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:33:33,910] {logging_mixin.py:109} INFO - [2021-09-22 10:33:33,910] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:33:33,924] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:33:33,943] {logging_mixin.py:109} INFO - [2021-09-22 10:33:33,943] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:33:33,951] {logging_mixin.py:109} INFO - [2021-09-22 10:33:33,951] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:33:33,957] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2021-09-22 10:34:09,277] {processor.py:162} INFO - Started process (PID=22427) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:34:09,280] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:34:09,281] {logging_mixin.py:109} INFO - [2021-09-22 10:34:09,281] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:34:09,295] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:34:09,308] {logging_mixin.py:109} INFO - [2021-09-22 10:34:09,308] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:34:09,316] {logging_mixin.py:109} INFO - [2021-09-22 10:34:09,316] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:34:09,322] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.049 seconds
+[2021-09-22 10:34:51,455] {processor.py:162} INFO - Started process (PID=22483) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:34:51,458] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:34:51,460] {logging_mixin.py:109} INFO - [2021-09-22 10:34:51,459] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:34:51,475] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:34:51,491] {logging_mixin.py:109} INFO - [2021-09-22 10:34:51,491] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:34:51,499] {logging_mixin.py:109} INFO - [2021-09-22 10:34:51,499] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:34:51,505] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.055 seconds
+[2021-09-22 10:35:31,217] {processor.py:162} INFO - Started process (PID=22522) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:35:31,220] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:35:31,221] {logging_mixin.py:109} INFO - [2021-09-22 10:35:31,221] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:35:31,236] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:35:31,249] {logging_mixin.py:109} INFO - [2021-09-22 10:35:31,249] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:35:31,257] {logging_mixin.py:109} INFO - [2021-09-22 10:35:31,257] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:35:31,263] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.051 seconds
+[2021-09-22 10:36:07,379] {processor.py:162} INFO - Started process (PID=22576) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:36:07,382] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:36:07,384] {logging_mixin.py:109} INFO - [2021-09-22 10:36:07,383] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:36:07,399] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:36:07,413] {logging_mixin.py:109} INFO - [2021-09-22 10:36:07,413] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:36:07,422] {logging_mixin.py:109} INFO - [2021-09-22 10:36:07,421] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:36:07,427] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.053 seconds
+[2021-09-22 10:36:45,282] {processor.py:162} INFO - Started process (PID=22634) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:36:45,286] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:36:45,288] {logging_mixin.py:109} INFO - [2021-09-22 10:36:45,287] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:36:45,308] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:36:45,323] {logging_mixin.py:109} INFO - [2021-09-22 10:36:45,323] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:36:45,332] {logging_mixin.py:109} INFO - [2021-09-22 10:36:45,332] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:36:45,338] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.063 seconds
+[2021-09-22 10:37:24,197] {processor.py:162} INFO - Started process (PID=22682) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:37:24,200] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:37:24,202] {logging_mixin.py:109} INFO - [2021-09-22 10:37:24,201] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:37:24,219] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:37:24,234] {logging_mixin.py:109} INFO - [2021-09-22 10:37:24,234] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:37:24,242] {logging_mixin.py:109} INFO - [2021-09-22 10:37:24,242] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:37:24,248] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2021-09-22 10:38:03,340] {processor.py:162} INFO - Started process (PID=22729) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:38:03,343] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:38:03,344] {logging_mixin.py:109} INFO - [2021-09-22 10:38:03,344] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:38:03,359] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:38:03,372] {logging_mixin.py:109} INFO - [2021-09-22 10:38:03,372] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:38:03,380] {logging_mixin.py:109} INFO - [2021-09-22 10:38:03,380] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:38:03,386] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.051 seconds
+[2021-09-22 10:38:44,596] {processor.py:162} INFO - Started process (PID=22801) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:38:44,599] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:38:44,600] {logging_mixin.py:109} INFO - [2021-09-22 10:38:44,600] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:38:44,615] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:38:44,629] {logging_mixin.py:109} INFO - [2021-09-22 10:38:44,629] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:38:44,638] {logging_mixin.py:109} INFO - [2021-09-22 10:38:44,637] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:38:44,644] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.051 seconds
+[2021-09-22 10:39:22,900] {processor.py:162} INFO - Started process (PID=22835) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:39:22,903] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:39:22,905] {logging_mixin.py:109} INFO - [2021-09-22 10:39:22,904] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:39:22,919] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:39:22,932] {logging_mixin.py:109} INFO - [2021-09-22 10:39:22,931] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:39:22,940] {logging_mixin.py:109} INFO - [2021-09-22 10:39:22,940] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:39:22,947] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.051 seconds
+[2021-09-22 10:40:02,060] {processor.py:162} INFO - Started process (PID=22883) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:40:02,063] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:40:02,064] {logging_mixin.py:109} INFO - [2021-09-22 10:40:02,064] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:40:02,078] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:40:02,095] {logging_mixin.py:109} INFO - [2021-09-22 10:40:02,094] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:40:02,106] {logging_mixin.py:109} INFO - [2021-09-22 10:40:02,106] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:40:02,112] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.060 seconds
+[2021-09-22 10:40:39,587] {processor.py:162} INFO - Started process (PID=22925) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:40:39,589] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:40:39,590] {logging_mixin.py:109} INFO - [2021-09-22 10:40:39,589] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:40:39,598] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:40:39,608] {logging_mixin.py:109} INFO - [2021-09-22 10:40:39,607] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:40:39,614] {logging_mixin.py:109} INFO - [2021-09-22 10:40:39,614] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:40:39,619] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.037 seconds
+[2021-09-22 10:41:17,855] {processor.py:162} INFO - Started process (PID=22959) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:41:17,858] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:41:17,860] {logging_mixin.py:109} INFO - [2021-09-22 10:41:17,859] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:41:17,873] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:41:17,886] {logging_mixin.py:109} INFO - [2021-09-22 10:41:17,886] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:41:17,893] {logging_mixin.py:109} INFO - [2021-09-22 10:41:17,893] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:41:17,898] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.048 seconds
+[2021-09-22 10:41:56,533] {processor.py:162} INFO - Started process (PID=22995) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:41:56,549] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:41:56,551] {logging_mixin.py:109} INFO - [2021-09-22 10:41:56,550] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:41:56,568] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:41:56,583] {logging_mixin.py:109} INFO - [2021-09-22 10:41:56,583] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:41:56,592] {logging_mixin.py:109} INFO - [2021-09-22 10:41:56,592] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:41:56,598] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.071 seconds
+[2021-09-22 10:42:35,071] {processor.py:162} INFO - Started process (PID=23030) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:42:35,074] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:42:35,075] {logging_mixin.py:109} INFO - [2021-09-22 10:42:35,075] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:42:35,088] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:42:35,100] {logging_mixin.py:109} INFO - [2021-09-22 10:42:35,100] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:42:35,107] {logging_mixin.py:109} INFO - [2021-09-22 10:42:35,107] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:42:35,112] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.044 seconds
+[2021-09-22 10:43:17,878] {processor.py:162} INFO - Started process (PID=23070) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:43:17,881] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:43:17,882] {logging_mixin.py:109} INFO - [2021-09-22 10:43:17,881] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:43:17,891] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:43:17,901] {logging_mixin.py:109} INFO - [2021-09-22 10:43:17,900] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:43:17,908] {logging_mixin.py:109} INFO - [2021-09-22 10:43:17,908] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:43:17,914] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.040 seconds
+[2021-09-22 10:43:54,906] {processor.py:162} INFO - Started process (PID=23105) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:43:54,909] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:43:54,910] {logging_mixin.py:109} INFO - [2021-09-22 10:43:54,910] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:43:54,925] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:43:54,938] {logging_mixin.py:109} INFO - [2021-09-22 10:43:54,937] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:43:54,945] {logging_mixin.py:109} INFO - [2021-09-22 10:43:54,945] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:43:54,951] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.049 seconds
+[2021-09-22 10:44:33,525] {processor.py:162} INFO - Started process (PID=23202) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:44:33,527] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:44:33,530] {logging_mixin.py:109} INFO - [2021-09-22 10:44:33,529] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:44:33,545] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:44:33,561] {logging_mixin.py:109} INFO - [2021-09-22 10:44:33,561] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:44:33,571] {logging_mixin.py:109} INFO - [2021-09-22 10:44:33,570] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:44:33,577] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2021-09-22 10:45:10,278] {processor.py:162} INFO - Started process (PID=23236) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:45:10,281] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:45:10,282] {logging_mixin.py:109} INFO - [2021-09-22 10:45:10,282] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:45:10,297] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:45:10,315] {logging_mixin.py:109} INFO - [2021-09-22 10:45:10,315] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:45:10,323] {logging_mixin.py:109} INFO - [2021-09-22 10:45:10,323] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:45:10,328] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2021-09-22 10:45:51,114] {processor.py:162} INFO - Started process (PID=23271) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:45:51,117] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:45:51,119] {logging_mixin.py:109} INFO - [2021-09-22 10:45:51,118] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:45:51,135] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:45:51,151] {logging_mixin.py:109} INFO - [2021-09-22 10:45:51,151] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:45:51,160] {logging_mixin.py:109} INFO - [2021-09-22 10:45:51,160] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:45:51,167] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.060 seconds
+[2021-09-22 10:46:30,500] {processor.py:162} INFO - Started process (PID=23306) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:46:30,503] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:46:30,505] {logging_mixin.py:109} INFO - [2021-09-22 10:46:30,504] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:46:30,520] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:46:30,534] {logging_mixin.py:109} INFO - [2021-09-22 10:46:30,533] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:46:30,542] {logging_mixin.py:109} INFO - [2021-09-22 10:46:30,541] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:46:30,547] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.053 seconds
+[2021-09-22 10:47:11,974] {processor.py:162} INFO - Started process (PID=23352) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:47:11,976] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:47:11,978] {logging_mixin.py:109} INFO - [2021-09-22 10:47:11,977] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:47:11,990] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:47:12,002] {logging_mixin.py:109} INFO - [2021-09-22 10:47:12,002] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:47:12,009] {logging_mixin.py:109} INFO - [2021-09-22 10:47:12,009] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:47:12,014] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.044 seconds
+[2021-09-22 10:47:51,714] {processor.py:162} INFO - Started process (PID=23393) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:47:51,717] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:47:51,719] {logging_mixin.py:109} INFO - [2021-09-22 10:47:51,719] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:47:51,736] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:47:51,751] {logging_mixin.py:109} INFO - [2021-09-22 10:47:51,750] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:47:51,759] {logging_mixin.py:109} INFO - [2021-09-22 10:47:51,758] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:47:51,765] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2021-09-22 10:48:31,609] {processor.py:162} INFO - Started process (PID=23436) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:48:31,612] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:48:31,613] {logging_mixin.py:109} INFO - [2021-09-22 10:48:31,613] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:48:31,627] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:48:31,643] {logging_mixin.py:109} INFO - [2021-09-22 10:48:31,643] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:48:31,651] {logging_mixin.py:109} INFO - [2021-09-22 10:48:31,651] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:48:31,657] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.052 seconds
+[2021-09-22 10:49:11,610] {processor.py:162} INFO - Started process (PID=23473) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:49:11,613] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:49:11,615] {logging_mixin.py:109} INFO - [2021-09-22 10:49:11,615] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:49:11,631] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:49:11,645] {logging_mixin.py:109} INFO - [2021-09-22 10:49:11,644] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:49:11,652] {logging_mixin.py:109} INFO - [2021-09-22 10:49:11,652] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:49:11,658] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.054 seconds
+[2021-09-22 10:49:48,400] {processor.py:162} INFO - Started process (PID=23518) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:49:48,403] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:49:48,405] {logging_mixin.py:109} INFO - [2021-09-22 10:49:48,404] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:49:48,418] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:49:48,431] {logging_mixin.py:109} INFO - [2021-09-22 10:49:48,431] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:49:48,439] {logging_mixin.py:109} INFO - [2021-09-22 10:49:48,439] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:49:48,445] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.050 seconds
+[2021-09-22 10:50:26,218] {processor.py:162} INFO - Started process (PID=23555) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:50:26,221] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:50:26,223] {logging_mixin.py:109} INFO - [2021-09-22 10:50:26,222] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:50:26,238] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:50:26,251] {logging_mixin.py:109} INFO - [2021-09-22 10:50:26,251] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:50:26,259] {logging_mixin.py:109} INFO - [2021-09-22 10:50:26,258] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:50:26,264] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.052 seconds
+[2021-09-22 10:51:04,168] {processor.py:162} INFO - Started process (PID=23745) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:51:04,171] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:51:04,173] {logging_mixin.py:109} INFO - [2021-09-22 10:51:04,172] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:51:04,189] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:51:04,203] {logging_mixin.py:109} INFO - [2021-09-22 10:51:04,203] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:51:04,212] {logging_mixin.py:109} INFO - [2021-09-22 10:51:04,212] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:51:04,218] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.055 seconds
+[2021-09-22 10:51:39,426] {processor.py:162} INFO - Started process (PID=23923) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:51:39,429] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:51:39,431] {logging_mixin.py:109} INFO - [2021-09-22 10:51:39,430] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:51:39,447] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:51:39,461] {logging_mixin.py:109} INFO - [2021-09-22 10:51:39,461] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:51:39,470] {logging_mixin.py:109} INFO - [2021-09-22 10:51:39,469] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:51:39,475] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2021-09-22 10:52:18,986] {processor.py:162} INFO - Started process (PID=24021) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:52:18,987] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:52:18,989] {logging_mixin.py:109} INFO - [2021-09-22 10:52:18,988] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:52:19,019] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:52:19,030] {logging_mixin.py:109} INFO - [2021-09-22 10:52:19,029] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:52:19,037] {logging_mixin.py:109} INFO - [2021-09-22 10:52:19,036] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:52:19,042] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.060 seconds
+[2021-09-22 10:52:58,628] {processor.py:162} INFO - Started process (PID=24072) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:52:58,630] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-09-22 10:52:58,631] {logging_mixin.py:109} INFO - [2021-09-22 10:52:58,631] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:52:58,641] {processor.py:623} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-09-22 10:52:58,650] {logging_mixin.py:109} INFO - [2021-09-22 10:52:58,650] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:52:58,656] {logging_mixin.py:109} INFO - [2021-09-22 10:52:58,656] {dag.py:2287} INFO - Setting next_dagrun for example_skip_dag to 2021-09-20 00:00:00+00:00
+[2021-09-22 10:52:58,661] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.036 seconds

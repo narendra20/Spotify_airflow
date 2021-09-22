@@ -1,0 +1,889 @@
+[2021-09-22 02:04:19,726] {processor.py:162} INFO - Started process (PID=18689) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 02:04:19,729] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 02:04:19,730] {logging_mixin.py:109} INFO - [2021-09-22 02:04:19,730] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 02:04:19,747] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 02:04:19,887] {logging_mixin.py:109} INFO - [2021-09-22 02:04:19,887] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 02:04:19,892] {logging_mixin.py:109} INFO - [2021-09-22 02:04:19,892] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 02:04:19,898] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.178 seconds
+[2021-09-22 03:29:53,608] {processor.py:162} INFO - Started process (PID=18760) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 03:29:53,610] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 03:29:53,612] {logging_mixin.py:109} INFO - [2021-09-22 03:29:53,612] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 03:29:53,631] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 03:29:53,645] {logging_mixin.py:109} INFO - [2021-09-22 03:29:53,644] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 03:29:53,653] {logging_mixin.py:109} INFO - [2021-09-22 03:29:53,653] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 03:29:53,659] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.057 seconds
+[2021-09-22 03:47:14,529] {processor.py:162} INFO - Started process (PID=18860) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 03:47:14,531] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 03:47:14,533] {logging_mixin.py:109} INFO - [2021-09-22 03:47:14,533] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 03:47:14,548] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 03:47:14,561] {logging_mixin.py:109} INFO - [2021-09-22 03:47:14,561] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 03:47:14,571] {logging_mixin.py:109} INFO - [2021-09-22 03:47:14,570] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 03:47:14,578] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.053 seconds
+[2021-09-22 04:38:22,739] {processor.py:162} INFO - Started process (PID=18919) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 04:38:22,741] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 04:38:22,743] {logging_mixin.py:109} INFO - [2021-09-22 04:38:22,742] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 04:38:22,761] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 04:38:22,774] {logging_mixin.py:109} INFO - [2021-09-22 04:38:22,774] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 04:38:22,783] {logging_mixin.py:109} INFO - [2021-09-22 04:38:22,782] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 04:38:22,788] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.055 seconds
+[2021-09-22 06:19:09,546] {processor.py:162} INFO - Started process (PID=18982) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 06:19:09,547] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 06:19:09,548] {logging_mixin.py:109} INFO - [2021-09-22 06:19:09,547] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 06:19:09,556] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 06:19:09,564] {logging_mixin.py:109} INFO - [2021-09-22 06:19:09,563] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 06:19:09,570] {logging_mixin.py:109} INFO - [2021-09-22 06:19:09,569] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 06:19:09,576] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.033 seconds
+[2021-09-22 07:56:33,395] {processor.py:162} INFO - Started process (PID=19056) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 07:56:33,396] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 07:56:33,397] {logging_mixin.py:109} INFO - [2021-09-22 07:56:33,397] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 07:56:33,407] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 07:56:33,416] {logging_mixin.py:109} INFO - [2021-09-22 07:56:33,416] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 07:56:33,422] {logging_mixin.py:109} INFO - [2021-09-22 07:56:33,422] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 07:56:33,427] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.035 seconds
+[2021-09-22 09:14:05,513] {processor.py:162} INFO - Started process (PID=19140) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:14:05,515] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:14:05,519] {logging_mixin.py:109} INFO - [2021-09-22 09:14:05,518] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:14:05,536] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:14:05,547] {logging_mixin.py:109} INFO - [2021-09-22 09:14:05,547] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:14:05,557] {logging_mixin.py:109} INFO - [2021-09-22 09:14:05,557] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:14:05,562] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.059 seconds
+[2021-09-22 09:14:39,184] {processor.py:162} INFO - Started process (PID=19189) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:14:39,186] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:14:39,187] {logging_mixin.py:109} INFO - [2021-09-22 09:14:39,187] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:14:39,207] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:14:39,220] {logging_mixin.py:109} INFO - [2021-09-22 09:14:39,220] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:14:39,228] {logging_mixin.py:109} INFO - [2021-09-22 09:14:39,228] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:14:39,234] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.055 seconds
+[2021-09-22 09:15:12,963] {processor.py:162} INFO - Started process (PID=19224) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:15:12,965] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:15:12,966] {logging_mixin.py:109} INFO - [2021-09-22 09:15:12,965] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:15:12,974] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:15:12,983] {logging_mixin.py:109} INFO - [2021-09-22 09:15:12,983] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:15:12,989] {logging_mixin.py:109} INFO - [2021-09-22 09:15:12,989] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:15:12,994] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.036 seconds
+[2021-09-22 09:15:46,538] {processor.py:162} INFO - Started process (PID=19275) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:15:46,541] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:15:46,543] {logging_mixin.py:109} INFO - [2021-09-22 09:15:46,542] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:15:46,559] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:15:46,572] {logging_mixin.py:109} INFO - [2021-09-22 09:15:46,571] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:15:46,579] {logging_mixin.py:109} INFO - [2021-09-22 09:15:46,579] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:15:46,585] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.052 seconds
+[2021-09-22 09:16:19,007] {processor.py:162} INFO - Started process (PID=19317) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:16:19,010] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:16:19,013] {logging_mixin.py:109} INFO - [2021-09-22 09:16:19,012] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:16:19,025] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:16:19,038] {logging_mixin.py:109} INFO - [2021-09-22 09:16:19,038] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:16:19,047] {logging_mixin.py:109} INFO - [2021-09-22 09:16:19,046] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:16:19,052] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.050 seconds
+[2021-09-22 09:16:53,669] {processor.py:162} INFO - Started process (PID=19351) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:16:53,672] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:16:53,673] {logging_mixin.py:109} INFO - [2021-09-22 09:16:53,673] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:16:53,688] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:16:53,700] {logging_mixin.py:109} INFO - [2021-09-22 09:16:53,700] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:16:53,707] {logging_mixin.py:109} INFO - [2021-09-22 09:16:53,707] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:16:53,712] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.047 seconds
+[2021-09-22 09:17:26,179] {processor.py:162} INFO - Started process (PID=19385) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:17:26,182] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:17:26,183] {logging_mixin.py:109} INFO - [2021-09-22 09:17:26,183] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:17:26,192] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:17:26,201] {logging_mixin.py:109} INFO - [2021-09-22 09:17:26,200] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:17:26,208] {logging_mixin.py:109} INFO - [2021-09-22 09:17:26,208] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:17:26,214] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.039 seconds
+[2021-09-22 09:17:59,480] {processor.py:162} INFO - Started process (PID=19418) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:17:59,487] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:17:59,489] {logging_mixin.py:109} INFO - [2021-09-22 09:17:59,488] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:17:59,507] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:17:59,521] {logging_mixin.py:109} INFO - [2021-09-22 09:17:59,521] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:17:59,529] {logging_mixin.py:109} INFO - [2021-09-22 09:17:59,529] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:17:59,536] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.064 seconds
+[2021-09-22 09:18:32,109] {processor.py:162} INFO - Started process (PID=19452) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:18:32,110] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:18:32,113] {logging_mixin.py:109} INFO - [2021-09-22 09:18:32,112] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:18:32,126] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:18:32,135] {logging_mixin.py:109} INFO - [2021-09-22 09:18:32,135] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:18:32,141] {logging_mixin.py:109} INFO - [2021-09-22 09:18:32,141] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:18:32,146] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.040 seconds
+[2021-09-22 09:19:05,588] {processor.py:162} INFO - Started process (PID=19486) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:19:05,590] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:19:05,591] {logging_mixin.py:109} INFO - [2021-09-22 09:19:05,590] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:19:05,604] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:19:05,617] {logging_mixin.py:109} INFO - [2021-09-22 09:19:05,617] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:19:05,625] {logging_mixin.py:109} INFO - [2021-09-22 09:19:05,624] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:19:05,631] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.046 seconds
+[2021-09-22 09:19:39,350] {processor.py:162} INFO - Started process (PID=19532) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:19:39,353] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:19:39,354] {logging_mixin.py:109} INFO - [2021-09-22 09:19:39,354] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:19:39,369] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:19:39,380] {logging_mixin.py:109} INFO - [2021-09-22 09:19:39,380] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:19:39,387] {logging_mixin.py:109} INFO - [2021-09-22 09:19:39,387] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:19:39,392] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.046 seconds
+[2021-09-22 09:20:12,433] {processor.py:162} INFO - Started process (PID=19564) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:20:12,435] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:20:12,436] {logging_mixin.py:109} INFO - [2021-09-22 09:20:12,436] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:20:12,446] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:20:12,456] {logging_mixin.py:109} INFO - [2021-09-22 09:20:12,456] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:20:12,463] {logging_mixin.py:109} INFO - [2021-09-22 09:20:12,463] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:20:12,470] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.040 seconds
+[2021-09-22 09:20:46,196] {processor.py:162} INFO - Started process (PID=19598) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:20:46,199] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:20:46,200] {logging_mixin.py:109} INFO - [2021-09-22 09:20:46,200] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:20:46,216] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:20:46,229] {logging_mixin.py:109} INFO - [2021-09-22 09:20:46,228] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:20:46,236] {logging_mixin.py:109} INFO - [2021-09-22 09:20:46,236] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:20:46,241] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.051 seconds
+[2021-09-22 09:21:16,509] {processor.py:162} INFO - Started process (PID=19630) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:21:16,512] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:21:16,513] {logging_mixin.py:109} INFO - [2021-09-22 09:21:16,513] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:21:16,528] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:21:16,539] {logging_mixin.py:109} INFO - [2021-09-22 09:21:16,539] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:21:16,546] {logging_mixin.py:109} INFO - [2021-09-22 09:21:16,546] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:21:16,552] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.047 seconds
+[2021-09-22 09:21:48,083] {processor.py:162} INFO - Started process (PID=19663) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:21:48,084] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:21:48,085] {logging_mixin.py:109} INFO - [2021-09-22 09:21:48,085] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:21:48,094] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:21:48,108] {logging_mixin.py:109} INFO - [2021-09-22 09:21:48,108] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:21:48,115] {logging_mixin.py:109} INFO - [2021-09-22 09:21:48,114] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:21:48,121] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.045 seconds
+[2021-09-22 09:22:21,557] {processor.py:162} INFO - Started process (PID=19696) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:22:21,559] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:22:21,561] {logging_mixin.py:109} INFO - [2021-09-22 09:22:21,560] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:22:21,571] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:22:21,583] {logging_mixin.py:109} INFO - [2021-09-22 09:22:21,583] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:22:21,591] {logging_mixin.py:109} INFO - [2021-09-22 09:22:21,591] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:22:21,598] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.042 seconds
+[2021-09-22 09:22:52,436] {processor.py:162} INFO - Started process (PID=19737) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:22:52,439] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:22:52,440] {logging_mixin.py:109} INFO - [2021-09-22 09:22:52,439] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:22:52,453] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:22:52,465] {logging_mixin.py:109} INFO - [2021-09-22 09:22:52,465] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:22:52,475] {logging_mixin.py:109} INFO - [2021-09-22 09:22:52,475] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:22:52,481] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.049 seconds
+[2021-09-22 09:23:23,578] {processor.py:162} INFO - Started process (PID=19781) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:23:23,581] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:23:23,582] {logging_mixin.py:109} INFO - [2021-09-22 09:23:23,581] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:23:23,595] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:23:23,606] {logging_mixin.py:109} INFO - [2021-09-22 09:23:23,606] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:23:23,612] {logging_mixin.py:109} INFO - [2021-09-22 09:23:23,612] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:23:23,618] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.044 seconds
+[2021-09-22 09:23:57,069] {processor.py:162} INFO - Started process (PID=19828) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:23:57,072] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:23:57,074] {logging_mixin.py:109} INFO - [2021-09-22 09:23:57,073] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:23:57,089] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:23:57,102] {logging_mixin.py:109} INFO - [2021-09-22 09:23:57,102] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:23:57,109] {logging_mixin.py:109} INFO - [2021-09-22 09:23:57,109] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:23:57,115] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.051 seconds
+[2021-09-22 09:24:29,603] {processor.py:162} INFO - Started process (PID=19860) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:24:29,606] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:24:29,607] {logging_mixin.py:109} INFO - [2021-09-22 09:24:29,607] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:24:29,623] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:24:29,636] {logging_mixin.py:109} INFO - [2021-09-22 09:24:29,635] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:24:29,643] {logging_mixin.py:109} INFO - [2021-09-22 09:24:29,643] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:24:29,649] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.051 seconds
+[2021-09-22 09:25:01,922] {processor.py:162} INFO - Started process (PID=19894) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:25:01,926] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:25:01,928] {logging_mixin.py:109} INFO - [2021-09-22 09:25:01,927] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:25:01,946] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:25:01,959] {logging_mixin.py:109} INFO - [2021-09-22 09:25:01,959] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:25:01,968] {logging_mixin.py:109} INFO - [2021-09-22 09:25:01,968] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:25:01,975] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.059 seconds
+[2021-09-22 09:25:33,891] {processor.py:162} INFO - Started process (PID=19930) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:25:33,894] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:25:33,895] {logging_mixin.py:109} INFO - [2021-09-22 09:25:33,895] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:25:33,909] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:25:33,921] {logging_mixin.py:109} INFO - [2021-09-22 09:25:33,920] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:25:33,928] {logging_mixin.py:109} INFO - [2021-09-22 09:25:33,927] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:25:33,933] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.046 seconds
+[2021-09-22 09:26:06,095] {processor.py:162} INFO - Started process (PID=19960) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:26:06,096] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:26:06,098] {logging_mixin.py:109} INFO - [2021-09-22 09:26:06,097] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:26:06,111] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:26:06,122] {logging_mixin.py:109} INFO - [2021-09-22 09:26:06,122] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:26:06,129] {logging_mixin.py:109} INFO - [2021-09-22 09:26:06,129] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:26:06,135] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.044 seconds
+[2021-09-22 09:26:39,340] {processor.py:162} INFO - Started process (PID=19996) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:26:39,343] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:26:39,344] {logging_mixin.py:109} INFO - [2021-09-22 09:26:39,344] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:26:39,356] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:26:39,365] {logging_mixin.py:109} INFO - [2021-09-22 09:26:39,365] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:26:39,371] {logging_mixin.py:109} INFO - [2021-09-22 09:26:39,371] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:26:39,376] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.040 seconds
+[2021-09-22 09:27:11,699] {processor.py:162} INFO - Started process (PID=20027) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:27:11,701] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:27:11,702] {logging_mixin.py:109} INFO - [2021-09-22 09:27:11,702] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:27:11,716] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:27:11,728] {logging_mixin.py:109} INFO - [2021-09-22 09:27:11,727] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:27:11,734] {logging_mixin.py:109} INFO - [2021-09-22 09:27:11,734] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:27:11,739] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.044 seconds
+[2021-09-22 09:27:44,360] {processor.py:162} INFO - Started process (PID=20060) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:27:44,362] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:27:44,364] {logging_mixin.py:109} INFO - [2021-09-22 09:27:44,363] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:27:44,376] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:27:44,388] {logging_mixin.py:109} INFO - [2021-09-22 09:27:44,387] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:27:44,395] {logging_mixin.py:109} INFO - [2021-09-22 09:27:44,394] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:27:44,400] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.044 seconds
+[2021-09-22 09:28:17,624] {processor.py:162} INFO - Started process (PID=20093) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:28:17,627] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:28:17,629] {logging_mixin.py:109} INFO - [2021-09-22 09:28:17,628] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:28:17,643] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:28:17,654] {logging_mixin.py:109} INFO - [2021-09-22 09:28:17,654] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:28:17,661] {logging_mixin.py:109} INFO - [2021-09-22 09:28:17,661] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:28:17,666] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.045 seconds
+[2021-09-22 09:28:49,906] {processor.py:162} INFO - Started process (PID=20125) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:28:49,909] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:28:49,910] {logging_mixin.py:109} INFO - [2021-09-22 09:28:49,910] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:28:49,925] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:28:49,937] {logging_mixin.py:109} INFO - [2021-09-22 09:28:49,936] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:28:49,944] {logging_mixin.py:109} INFO - [2021-09-22 09:28:49,944] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:28:49,950] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.048 seconds
+[2021-09-22 09:29:21,024] {processor.py:162} INFO - Started process (PID=20155) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:29:21,025] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:29:21,026] {logging_mixin.py:109} INFO - [2021-09-22 09:29:21,026] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:29:21,041] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:29:21,052] {logging_mixin.py:109} INFO - [2021-09-22 09:29:21,052] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:29:21,059] {logging_mixin.py:109} INFO - [2021-09-22 09:29:21,059] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:29:21,066] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.046 seconds
+[2021-09-22 09:29:53,057] {processor.py:162} INFO - Started process (PID=20188) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:29:53,059] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:29:53,060] {logging_mixin.py:109} INFO - [2021-09-22 09:29:53,060] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:29:53,071] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:29:53,081] {logging_mixin.py:109} INFO - [2021-09-22 09:29:53,081] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:29:53,087] {logging_mixin.py:109} INFO - [2021-09-22 09:29:53,087] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:29:53,092] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.038 seconds
+[2021-09-22 09:30:24,174] {processor.py:162} INFO - Started process (PID=20230) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:30:24,177] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:30:24,178] {logging_mixin.py:109} INFO - [2021-09-22 09:30:24,178] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:30:24,201] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:30:24,215] {logging_mixin.py:109} INFO - [2021-09-22 09:30:24,214] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:30:24,222] {logging_mixin.py:109} INFO - [2021-09-22 09:30:24,222] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:30:24,228] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.059 seconds
+[2021-09-22 09:30:54,713] {processor.py:162} INFO - Started process (PID=20269) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:30:54,715] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:30:54,716] {logging_mixin.py:109} INFO - [2021-09-22 09:30:54,716] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:30:54,730] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:30:54,741] {logging_mixin.py:109} INFO - [2021-09-22 09:30:54,741] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:30:54,748] {logging_mixin.py:109} INFO - [2021-09-22 09:30:54,747] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:30:54,753] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.044 seconds
+[2021-09-22 09:31:29,489] {processor.py:162} INFO - Started process (PID=20301) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:31:29,492] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:31:29,494] {logging_mixin.py:109} INFO - [2021-09-22 09:31:29,493] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:31:29,510] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:31:29,522] {logging_mixin.py:109} INFO - [2021-09-22 09:31:29,522] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:31:29,530] {logging_mixin.py:109} INFO - [2021-09-22 09:31:29,530] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:31:29,535] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.052 seconds
+[2021-09-22 09:32:03,587] {processor.py:162} INFO - Started process (PID=20336) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:32:03,590] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:32:03,592] {logging_mixin.py:109} INFO - [2021-09-22 09:32:03,591] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:32:03,607] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:32:03,620] {logging_mixin.py:109} INFO - [2021-09-22 09:32:03,620] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:32:03,628] {logging_mixin.py:109} INFO - [2021-09-22 09:32:03,628] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:32:03,634] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.051 seconds
+[2021-09-22 09:32:36,155] {processor.py:162} INFO - Started process (PID=20369) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:32:36,157] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:32:36,159] {logging_mixin.py:109} INFO - [2021-09-22 09:32:36,158] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:32:36,179] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:32:36,194] {logging_mixin.py:109} INFO - [2021-09-22 09:32:36,193] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:32:36,205] {logging_mixin.py:109} INFO - [2021-09-22 09:32:36,205] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:32:36,213] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.062 seconds
+[2021-09-22 09:33:08,573] {processor.py:162} INFO - Started process (PID=20405) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:33:08,577] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:33:08,578] {logging_mixin.py:109} INFO - [2021-09-22 09:33:08,578] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:33:08,596] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:33:08,609] {logging_mixin.py:109} INFO - [2021-09-22 09:33:08,608] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:33:08,618] {logging_mixin.py:109} INFO - [2021-09-22 09:33:08,618] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:33:08,625] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.058 seconds
+[2021-09-22 09:33:41,342] {processor.py:162} INFO - Started process (PID=20440) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:33:41,345] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:33:41,347] {logging_mixin.py:109} INFO - [2021-09-22 09:33:41,346] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:33:41,363] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:33:41,375] {logging_mixin.py:109} INFO - [2021-09-22 09:33:41,375] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:33:41,383] {logging_mixin.py:109} INFO - [2021-09-22 09:33:41,382] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:33:41,400] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.063 seconds
+[2021-09-22 09:34:12,896] {processor.py:162} INFO - Started process (PID=20473) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:34:12,898] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:34:12,900] {logging_mixin.py:109} INFO - [2021-09-22 09:34:12,900] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:34:12,917] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:34:12,931] {logging_mixin.py:109} INFO - [2021-09-22 09:34:12,931] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:34:12,940] {logging_mixin.py:109} INFO - [2021-09-22 09:34:12,940] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:34:12,947] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.057 seconds
+[2021-09-22 09:34:45,435] {processor.py:162} INFO - Started process (PID=20505) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:34:45,439] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:34:45,441] {logging_mixin.py:109} INFO - [2021-09-22 09:34:45,440] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:34:45,460] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:34:45,481] {logging_mixin.py:109} INFO - [2021-09-22 09:34:45,480] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:34:45,491] {logging_mixin.py:109} INFO - [2021-09-22 09:34:45,490] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:34:45,499] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.070 seconds
+[2021-09-22 09:35:18,301] {processor.py:162} INFO - Started process (PID=20539) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:35:18,304] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:35:18,306] {logging_mixin.py:109} INFO - [2021-09-22 09:35:18,306] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:35:18,325] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:35:18,338] {logging_mixin.py:109} INFO - [2021-09-22 09:35:18,337] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:35:18,346] {logging_mixin.py:109} INFO - [2021-09-22 09:35:18,345] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:35:18,352] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.056 seconds
+[2021-09-22 09:35:49,831] {processor.py:162} INFO - Started process (PID=20570) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:35:49,834] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:35:49,836] {logging_mixin.py:109} INFO - [2021-09-22 09:35:49,835] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:35:49,852] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:35:49,864] {logging_mixin.py:109} INFO - [2021-09-22 09:35:49,864] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:35:49,871] {logging_mixin.py:109} INFO - [2021-09-22 09:35:49,871] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:35:49,877] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.052 seconds
+[2021-09-22 09:36:23,210] {processor.py:162} INFO - Started process (PID=20605) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:36:23,213] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:36:23,214] {logging_mixin.py:109} INFO - [2021-09-22 09:36:23,214] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:36:23,229] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:36:23,241] {logging_mixin.py:109} INFO - [2021-09-22 09:36:23,240] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:36:23,248] {logging_mixin.py:109} INFO - [2021-09-22 09:36:23,248] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:36:23,253] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.047 seconds
+[2021-09-22 09:36:56,013] {processor.py:162} INFO - Started process (PID=20638) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:36:56,016] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:36:56,017] {logging_mixin.py:109} INFO - [2021-09-22 09:36:56,017] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:36:56,029] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:36:56,040] {logging_mixin.py:109} INFO - [2021-09-22 09:36:56,039] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:36:56,046] {logging_mixin.py:109} INFO - [2021-09-22 09:36:56,046] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:36:56,051] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.042 seconds
+[2021-09-22 09:37:30,117] {processor.py:162} INFO - Started process (PID=20672) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:37:30,120] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:37:30,122] {logging_mixin.py:109} INFO - [2021-09-22 09:37:30,121] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:37:30,136] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:37:30,150] {logging_mixin.py:109} INFO - [2021-09-22 09:37:30,150] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:37:30,157] {logging_mixin.py:109} INFO - [2021-09-22 09:37:30,157] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:37:30,163] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.050 seconds
+[2021-09-22 09:38:01,593] {processor.py:162} INFO - Started process (PID=20702) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:38:01,596] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:38:01,597] {logging_mixin.py:109} INFO - [2021-09-22 09:38:01,597] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:38:01,614] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:38:01,627] {logging_mixin.py:109} INFO - [2021-09-22 09:38:01,626] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:38:01,635] {logging_mixin.py:109} INFO - [2021-09-22 09:38:01,634] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:38:01,640] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.051 seconds
+[2021-09-22 09:38:31,973] {processor.py:162} INFO - Started process (PID=20736) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:38:31,976] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:38:31,978] {logging_mixin.py:109} INFO - [2021-09-22 09:38:31,977] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:38:31,991] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:38:32,002] {logging_mixin.py:109} INFO - [2021-09-22 09:38:32,002] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:38:32,009] {logging_mixin.py:109} INFO - [2021-09-22 09:38:32,008] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:38:32,014] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.044 seconds
+[2021-09-22 09:39:03,947] {processor.py:162} INFO - Started process (PID=20769) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:39:03,949] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:39:03,950] {logging_mixin.py:109} INFO - [2021-09-22 09:39:03,950] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:39:03,963] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:39:03,974] {logging_mixin.py:109} INFO - [2021-09-22 09:39:03,973] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:39:03,981] {logging_mixin.py:109} INFO - [2021-09-22 09:39:03,980] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:39:03,986] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.043 seconds
+[2021-09-22 09:39:37,298] {processor.py:162} INFO - Started process (PID=20800) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:39:37,301] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:39:37,303] {logging_mixin.py:109} INFO - [2021-09-22 09:39:37,302] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:39:37,316] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:39:37,327] {logging_mixin.py:109} INFO - [2021-09-22 09:39:37,327] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:39:37,334] {logging_mixin.py:109} INFO - [2021-09-22 09:39:37,334] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:39:37,339] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.045 seconds
+[2021-09-22 09:40:09,613] {processor.py:162} INFO - Started process (PID=20833) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:40:09,616] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:40:09,618] {logging_mixin.py:109} INFO - [2021-09-22 09:40:09,617] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:40:09,634] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:40:09,646] {logging_mixin.py:109} INFO - [2021-09-22 09:40:09,646] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:40:09,654] {logging_mixin.py:109} INFO - [2021-09-22 09:40:09,653] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:40:09,659] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.052 seconds
+[2021-09-22 09:40:41,687] {processor.py:162} INFO - Started process (PID=20868) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:40:41,690] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:40:41,692] {logging_mixin.py:109} INFO - [2021-09-22 09:40:41,692] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:40:41,711] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:40:41,725] {logging_mixin.py:109} INFO - [2021-09-22 09:40:41,724] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:40:41,735] {logging_mixin.py:109} INFO - [2021-09-22 09:40:41,734] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:40:41,741] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.058 seconds
+[2021-09-22 09:41:14,498] {processor.py:162} INFO - Started process (PID=20902) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:41:14,502] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:41:14,503] {logging_mixin.py:109} INFO - [2021-09-22 09:41:14,503] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:41:14,516] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:41:14,528] {logging_mixin.py:109} INFO - [2021-09-22 09:41:14,528] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:41:14,536] {logging_mixin.py:109} INFO - [2021-09-22 09:41:14,535] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:41:14,541] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.047 seconds
+[2021-09-22 09:41:48,689] {processor.py:162} INFO - Started process (PID=20935) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:41:48,691] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:41:48,692] {logging_mixin.py:109} INFO - [2021-09-22 09:41:48,692] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:41:48,705] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:41:48,715] {logging_mixin.py:109} INFO - [2021-09-22 09:41:48,715] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:41:48,721] {logging_mixin.py:109} INFO - [2021-09-22 09:41:48,721] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:41:48,726] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.041 seconds
+[2021-09-22 09:42:20,134] {processor.py:162} INFO - Started process (PID=20966) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:42:20,137] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:42:20,138] {logging_mixin.py:109} INFO - [2021-09-22 09:42:20,138] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:42:20,151] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:42:20,162] {logging_mixin.py:109} INFO - [2021-09-22 09:42:20,162] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:42:20,169] {logging_mixin.py:109} INFO - [2021-09-22 09:42:20,169] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:42:20,174] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.044 seconds
+[2021-09-22 09:42:52,001] {processor.py:162} INFO - Started process (PID=20999) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:42:52,004] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:42:52,005] {logging_mixin.py:109} INFO - [2021-09-22 09:42:52,005] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:42:52,019] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:42:52,030] {logging_mixin.py:109} INFO - [2021-09-22 09:42:52,030] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:42:52,037] {logging_mixin.py:109} INFO - [2021-09-22 09:42:52,037] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:42:52,043] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.047 seconds
+[2021-09-22 09:43:25,828] {processor.py:162} INFO - Started process (PID=21037) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:43:25,831] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:43:25,833] {logging_mixin.py:109} INFO - [2021-09-22 09:43:25,832] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:43:25,848] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:43:25,861] {logging_mixin.py:109} INFO - [2021-09-22 09:43:25,861] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:43:25,868] {logging_mixin.py:109} INFO - [2021-09-22 09:43:25,868] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:43:25,874] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.052 seconds
+[2021-09-22 09:43:57,965] {processor.py:162} INFO - Started process (PID=21076) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:43:57,968] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:43:57,970] {logging_mixin.py:109} INFO - [2021-09-22 09:43:57,970] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:43:57,987] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:43:58,001] {logging_mixin.py:109} INFO - [2021-09-22 09:43:58,000] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:43:58,008] {logging_mixin.py:109} INFO - [2021-09-22 09:43:58,008] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:43:58,013] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.055 seconds
+[2021-09-22 09:44:30,608] {processor.py:162} INFO - Started process (PID=21111) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:44:30,612] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:44:30,614] {logging_mixin.py:109} INFO - [2021-09-22 09:44:30,613] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:44:30,633] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:44:30,648] {logging_mixin.py:109} INFO - [2021-09-22 09:44:30,648] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:44:30,657] {logging_mixin.py:109} INFO - [2021-09-22 09:44:30,656] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:44:30,663] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.060 seconds
+[2021-09-22 09:45:04,241] {processor.py:162} INFO - Started process (PID=21144) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:45:04,243] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:45:04,245] {logging_mixin.py:109} INFO - [2021-09-22 09:45:04,245] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:45:04,257] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:45:04,269] {logging_mixin.py:109} INFO - [2021-09-22 09:45:04,269] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:45:04,279] {logging_mixin.py:109} INFO - [2021-09-22 09:45:04,279] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:45:04,290] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.054 seconds
+[2021-09-22 09:45:36,872] {processor.py:162} INFO - Started process (PID=21177) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:45:36,875] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:45:36,876] {logging_mixin.py:109} INFO - [2021-09-22 09:45:36,876] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:45:36,891] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:45:36,902] {logging_mixin.py:109} INFO - [2021-09-22 09:45:36,902] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:45:36,909] {logging_mixin.py:109} INFO - [2021-09-22 09:45:36,909] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:45:36,914] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.047 seconds
+[2021-09-22 09:46:09,601] {processor.py:162} INFO - Started process (PID=21221) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:46:09,605] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:46:09,607] {logging_mixin.py:109} INFO - [2021-09-22 09:46:09,607] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:46:09,620] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:46:09,631] {logging_mixin.py:109} INFO - [2021-09-22 09:46:09,631] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:46:09,638] {logging_mixin.py:109} INFO - [2021-09-22 09:46:09,638] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:46:09,643] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.046 seconds
+[2021-09-22 09:46:40,634] {processor.py:162} INFO - Started process (PID=21252) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:46:40,637] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:46:40,638] {logging_mixin.py:109} INFO - [2021-09-22 09:46:40,638] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:46:40,652] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:46:40,664] {logging_mixin.py:109} INFO - [2021-09-22 09:46:40,664] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:46:40,671] {logging_mixin.py:109} INFO - [2021-09-22 09:46:40,671] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:46:40,676] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.046 seconds
+[2021-09-22 09:47:15,228] {processor.py:162} INFO - Started process (PID=21284) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:47:15,231] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:47:15,233] {logging_mixin.py:109} INFO - [2021-09-22 09:47:15,233] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:47:15,249] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:47:15,261] {logging_mixin.py:109} INFO - [2021-09-22 09:47:15,261] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:47:15,268] {logging_mixin.py:109} INFO - [2021-09-22 09:47:15,268] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:47:15,274] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.051 seconds
+[2021-09-22 09:47:47,246] {processor.py:162} INFO - Started process (PID=21316) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:47:47,249] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:47:47,251] {logging_mixin.py:109} INFO - [2021-09-22 09:47:47,251] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:47:47,269] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:47:47,282] {logging_mixin.py:109} INFO - [2021-09-22 09:47:47,281] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:47:47,289] {logging_mixin.py:109} INFO - [2021-09-22 09:47:47,289] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:47:47,295] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.054 seconds
+[2021-09-22 09:48:19,677] {processor.py:162} INFO - Started process (PID=21353) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:48:19,680] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:48:19,682] {logging_mixin.py:109} INFO - [2021-09-22 09:48:19,681] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:48:19,698] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:48:19,710] {logging_mixin.py:109} INFO - [2021-09-22 09:48:19,710] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:48:19,718] {logging_mixin.py:109} INFO - [2021-09-22 09:48:19,718] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:48:19,724] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.053 seconds
+[2021-09-22 09:48:52,849] {processor.py:162} INFO - Started process (PID=21385) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:48:52,851] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 09:48:52,853] {logging_mixin.py:109} INFO - [2021-09-22 09:48:52,852] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:48:52,867] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 09:48:52,879] {logging_mixin.py:109} INFO - [2021-09-22 09:48:52,879] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 09:48:52,886] {logging_mixin.py:109} INFO - [2021-09-22 09:48:52,886] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 09:48:52,891] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.047 seconds
+[2021-09-22 10:19:38,281] {processor.py:162} INFO - Started process (PID=21428) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:19:38,293] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:19:38,294] {logging_mixin.py:109} INFO - [2021-09-22 10:19:38,294] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:19:38,345] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:19:38,437] {logging_mixin.py:109} INFO - [2021-09-22 10:19:38,437] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:19:38,450] {logging_mixin.py:109} INFO - [2021-09-22 10:19:38,449] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:19:38,459] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.210 seconds
+[2021-09-22 10:20:13,442] {processor.py:162} INFO - Started process (PID=21504) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:20:13,445] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:20:13,446] {logging_mixin.py:109} INFO - [2021-09-22 10:20:13,446] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:20:13,461] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:20:13,473] {logging_mixin.py:109} INFO - [2021-09-22 10:20:13,473] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:20:13,480] {logging_mixin.py:109} INFO - [2021-09-22 10:20:13,480] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:20:13,485] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.047 seconds
+[2021-09-22 10:20:46,387] {processor.py:162} INFO - Started process (PID=21538) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:20:46,390] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:20:46,391] {logging_mixin.py:109} INFO - [2021-09-22 10:20:46,391] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:20:46,406] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:20:46,418] {logging_mixin.py:109} INFO - [2021-09-22 10:20:46,418] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:20:46,425] {logging_mixin.py:109} INFO - [2021-09-22 10:20:46,425] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:20:46,431] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.049 seconds
+[2021-09-22 10:21:19,869] {processor.py:162} INFO - Started process (PID=21572) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:21:19,871] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:21:19,873] {logging_mixin.py:109} INFO - [2021-09-22 10:21:19,873] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:21:19,887] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:21:19,899] {logging_mixin.py:109} INFO - [2021-09-22 10:21:19,898] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:21:19,906] {logging_mixin.py:109} INFO - [2021-09-22 10:21:19,906] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:21:19,911] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.046 seconds
+[2021-09-22 10:21:53,631] {processor.py:162} INFO - Started process (PID=21616) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:21:53,633] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:21:53,635] {logging_mixin.py:109} INFO - [2021-09-22 10:21:53,634] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:21:53,649] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:21:53,661] {logging_mixin.py:109} INFO - [2021-09-22 10:21:53,661] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:21:53,669] {logging_mixin.py:109} INFO - [2021-09-22 10:21:53,668] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:21:53,675] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.051 seconds
+[2021-09-22 10:22:27,484] {processor.py:162} INFO - Started process (PID=21650) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:22:27,487] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:22:27,489] {logging_mixin.py:109} INFO - [2021-09-22 10:22:27,488] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:22:27,505] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:22:27,520] {logging_mixin.py:109} INFO - [2021-09-22 10:22:27,519] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:22:27,528] {logging_mixin.py:109} INFO - [2021-09-22 10:22:27,527] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:22:27,534] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.055 seconds
+[2021-09-22 10:23:01,519] {processor.py:162} INFO - Started process (PID=21682) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:23:01,522] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:23:01,524] {logging_mixin.py:109} INFO - [2021-09-22 10:23:01,523] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:23:01,538] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:23:01,551] {logging_mixin.py:109} INFO - [2021-09-22 10:23:01,550] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:23:01,557] {logging_mixin.py:109} INFO - [2021-09-22 10:23:01,557] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:23:01,563] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.048 seconds
+[2021-09-22 10:23:35,375] {processor.py:162} INFO - Started process (PID=21717) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:23:35,378] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:23:35,379] {logging_mixin.py:109} INFO - [2021-09-22 10:23:35,379] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:23:35,394] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:23:35,406] {logging_mixin.py:109} INFO - [2021-09-22 10:23:35,406] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:23:35,414] {logging_mixin.py:109} INFO - [2021-09-22 10:23:35,414] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:23:35,422] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.049 seconds
+[2021-09-22 10:24:07,879] {processor.py:162} INFO - Started process (PID=21751) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:24:07,881] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:24:07,883] {logging_mixin.py:109} INFO - [2021-09-22 10:24:07,882] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:24:07,897] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:24:07,908] {logging_mixin.py:109} INFO - [2021-09-22 10:24:07,908] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:24:07,915] {logging_mixin.py:109} INFO - [2021-09-22 10:24:07,914] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:24:07,920] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.046 seconds
+[2021-09-22 10:24:40,363] {processor.py:162} INFO - Started process (PID=21793) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:24:40,365] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:24:40,366] {logging_mixin.py:109} INFO - [2021-09-22 10:24:40,366] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:24:40,382] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:24:40,395] {logging_mixin.py:109} INFO - [2021-09-22 10:24:40,394] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:24:40,405] {logging_mixin.py:109} INFO - [2021-09-22 10:24:40,404] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:24:40,412] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.054 seconds
+[2021-09-22 10:25:14,743] {processor.py:162} INFO - Started process (PID=21828) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:25:14,745] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:25:14,746] {logging_mixin.py:109} INFO - [2021-09-22 10:25:14,746] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:25:14,761] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:25:14,772] {logging_mixin.py:109} INFO - [2021-09-22 10:25:14,771] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:25:14,780] {logging_mixin.py:109} INFO - [2021-09-22 10:25:14,779] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:25:14,787] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.045 seconds
+[2021-09-22 10:25:48,371] {processor.py:162} INFO - Started process (PID=21859) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:25:48,373] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:25:48,374] {logging_mixin.py:109} INFO - [2021-09-22 10:25:48,373] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:25:48,384] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:25:48,395] {logging_mixin.py:109} INFO - [2021-09-22 10:25:48,394] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:25:48,404] {logging_mixin.py:109} INFO - [2021-09-22 10:25:48,404] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:25:48,410] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.043 seconds
+[2021-09-22 10:26:21,200] {processor.py:162} INFO - Started process (PID=21910) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:26:21,202] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:26:21,204] {logging_mixin.py:109} INFO - [2021-09-22 10:26:21,203] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:26:21,217] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:26:21,228] {logging_mixin.py:109} INFO - [2021-09-22 10:26:21,227] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:26:21,235] {logging_mixin.py:109} INFO - [2021-09-22 10:26:21,235] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:26:21,240] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.044 seconds
+[2021-09-22 10:26:54,509] {processor.py:162} INFO - Started process (PID=21946) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:26:54,512] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:26:54,514] {logging_mixin.py:109} INFO - [2021-09-22 10:26:54,513] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:26:54,526] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:26:54,537] {logging_mixin.py:109} INFO - [2021-09-22 10:26:54,536] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:26:54,543] {logging_mixin.py:109} INFO - [2021-09-22 10:26:54,543] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:26:54,548] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.043 seconds
+[2021-09-22 10:27:26,602] {processor.py:162} INFO - Started process (PID=22002) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:27:26,605] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:27:26,608] {logging_mixin.py:109} INFO - [2021-09-22 10:27:26,607] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:27:26,625] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:27:26,640] {logging_mixin.py:109} INFO - [2021-09-22 10:27:26,639] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:27:26,648] {logging_mixin.py:109} INFO - [2021-09-22 10:27:26,648] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:27:26,654] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.058 seconds
+[2021-09-22 10:27:58,916] {processor.py:162} INFO - Started process (PID=22033) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:27:58,919] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:27:58,920] {logging_mixin.py:109} INFO - [2021-09-22 10:27:58,920] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:27:58,935] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:27:58,948] {logging_mixin.py:109} INFO - [2021-09-22 10:27:58,947] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:27:58,956] {logging_mixin.py:109} INFO - [2021-09-22 10:27:58,955] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:27:58,962] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.050 seconds
+[2021-09-22 10:28:37,647] {processor.py:162} INFO - Started process (PID=22074) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:28:37,655] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:28:37,658] {logging_mixin.py:109} INFO - [2021-09-22 10:28:37,657] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:28:37,678] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:28:37,695] {logging_mixin.py:109} INFO - [2021-09-22 10:28:37,695] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:28:37,705] {logging_mixin.py:109} INFO - [2021-09-22 10:28:37,705] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:28:37,712] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.071 seconds
+[2021-09-22 10:29:16,992] {processor.py:162} INFO - Started process (PID=22110) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:29:16,996] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:29:16,997] {logging_mixin.py:109} INFO - [2021-09-22 10:29:16,997] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:29:17,013] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:29:17,026] {logging_mixin.py:109} INFO - [2021-09-22 10:29:17,025] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:29:17,034] {logging_mixin.py:109} INFO - [2021-09-22 10:29:17,033] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:29:17,039] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.053 seconds
+[2021-09-22 10:29:57,440] {processor.py:162} INFO - Started process (PID=22150) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:29:57,443] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:29:57,444] {logging_mixin.py:109} INFO - [2021-09-22 10:29:57,444] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:29:57,459] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:29:57,472] {logging_mixin.py:109} INFO - [2021-09-22 10:29:57,471] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:29:57,479] {logging_mixin.py:109} INFO - [2021-09-22 10:29:57,479] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:29:57,485] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.049 seconds
+[2021-09-22 10:30:37,719] {processor.py:162} INFO - Started process (PID=22188) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:30:37,721] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:30:37,722] {logging_mixin.py:109} INFO - [2021-09-22 10:30:37,722] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:30:37,735] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:30:37,747] {logging_mixin.py:109} INFO - [2021-09-22 10:30:37,746] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:30:37,755] {logging_mixin.py:109} INFO - [2021-09-22 10:30:37,755] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:30:37,761] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.046 seconds
+[2021-09-22 10:31:15,922] {processor.py:162} INFO - Started process (PID=22227) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:31:15,925] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:31:15,927] {logging_mixin.py:109} INFO - [2021-09-22 10:31:15,926] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:31:15,943] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:31:15,956] {logging_mixin.py:109} INFO - [2021-09-22 10:31:15,955] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:31:15,964] {logging_mixin.py:109} INFO - [2021-09-22 10:31:15,963] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:31:15,969] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.052 seconds
+[2021-09-22 10:31:57,026] {processor.py:162} INFO - Started process (PID=22271) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:31:57,030] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:31:57,032] {logging_mixin.py:109} INFO - [2021-09-22 10:31:57,031] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:31:57,049] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:31:57,063] {logging_mixin.py:109} INFO - [2021-09-22 10:31:57,063] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:31:57,071] {logging_mixin.py:109} INFO - [2021-09-22 10:31:57,071] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:31:57,077] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.058 seconds
+[2021-09-22 10:32:33,943] {processor.py:162} INFO - Started process (PID=22310) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:32:33,948] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:32:33,956] {logging_mixin.py:109} INFO - [2021-09-22 10:32:33,956] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:32:33,969] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:32:33,982] {logging_mixin.py:109} INFO - [2021-09-22 10:32:33,981] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:32:33,991] {logging_mixin.py:109} INFO - [2021-09-22 10:32:33,991] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:32:33,998] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.059 seconds
+[2021-09-22 10:33:11,218] {processor.py:162} INFO - Started process (PID=22360) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:33:11,222] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:33:11,224] {logging_mixin.py:109} INFO - [2021-09-22 10:33:11,223] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:33:11,242] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:33:11,256] {logging_mixin.py:109} INFO - [2021-09-22 10:33:11,255] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:33:11,264] {logging_mixin.py:109} INFO - [2021-09-22 10:33:11,264] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:33:11,269] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.057 seconds
+[2021-09-22 10:33:50,122] {processor.py:162} INFO - Started process (PID=22406) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:33:50,126] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:33:50,127] {logging_mixin.py:109} INFO - [2021-09-22 10:33:50,127] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:33:50,144] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:33:50,158] {logging_mixin.py:109} INFO - [2021-09-22 10:33:50,157] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:33:50,165] {logging_mixin.py:109} INFO - [2021-09-22 10:33:50,165] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:33:50,171] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.055 seconds
+[2021-09-22 10:34:24,018] {processor.py:162} INFO - Started process (PID=22454) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:34:24,021] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:34:24,023] {logging_mixin.py:109} INFO - [2021-09-22 10:34:24,022] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:34:24,040] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:34:24,052] {logging_mixin.py:109} INFO - [2021-09-22 10:34:24,052] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:34:24,060] {logging_mixin.py:109} INFO - [2021-09-22 10:34:24,060] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:34:24,065] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.053 seconds
+[2021-09-22 10:35:00,620] {processor.py:162} INFO - Started process (PID=22492) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:35:00,623] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:35:00,625] {logging_mixin.py:109} INFO - [2021-09-22 10:35:00,624] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:35:00,639] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:35:00,651] {logging_mixin.py:109} INFO - [2021-09-22 10:35:00,650] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:35:00,658] {logging_mixin.py:109} INFO - [2021-09-22 10:35:00,657] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:35:00,663] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.047 seconds
+[2021-09-22 10:35:40,001] {processor.py:162} INFO - Started process (PID=22531) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:35:40,004] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:35:40,006] {logging_mixin.py:109} INFO - [2021-09-22 10:35:40,005] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:35:40,022] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:35:40,036] {logging_mixin.py:109} INFO - [2021-09-22 10:35:40,035] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:35:40,044] {logging_mixin.py:109} INFO - [2021-09-22 10:35:40,044] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:35:40,049] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.054 seconds
+[2021-09-22 10:36:14,038] {processor.py:162} INFO - Started process (PID=22597) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:36:14,040] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:36:14,042] {logging_mixin.py:109} INFO - [2021-09-22 10:36:14,041] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:36:14,056] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:36:14,068] {logging_mixin.py:109} INFO - [2021-09-22 10:36:14,067] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:36:14,075] {logging_mixin.py:109} INFO - [2021-09-22 10:36:14,074] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:36:14,080] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.047 seconds
+[2021-09-22 10:36:53,368] {processor.py:162} INFO - Started process (PID=22642) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:36:53,371] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:36:53,374] {logging_mixin.py:109} INFO - [2021-09-22 10:36:53,373] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:36:53,384] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:36:53,394] {logging_mixin.py:109} INFO - [2021-09-22 10:36:53,394] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:36:53,402] {logging_mixin.py:109} INFO - [2021-09-22 10:36:53,402] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:36:53,408] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.045 seconds
+[2021-09-22 10:37:29,158] {processor.py:162} INFO - Started process (PID=22689) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:37:29,162] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:37:29,164] {logging_mixin.py:109} INFO - [2021-09-22 10:37:29,163] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:37:29,184] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:37:29,199] {logging_mixin.py:109} INFO - [2021-09-22 10:37:29,199] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:37:29,209] {logging_mixin.py:109} INFO - [2021-09-22 10:37:29,209] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:37:29,216] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.063 seconds
+[2021-09-22 10:38:08,136] {processor.py:162} INFO - Started process (PID=22733) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:38:08,139] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:38:08,141] {logging_mixin.py:109} INFO - [2021-09-22 10:38:08,141] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:38:08,157] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:38:08,169] {logging_mixin.py:109} INFO - [2021-09-22 10:38:08,169] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:38:08,177] {logging_mixin.py:109} INFO - [2021-09-22 10:38:08,177] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:38:08,183] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.052 seconds
+[2021-09-22 10:38:43,452] {processor.py:162} INFO - Started process (PID=22800) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:38:43,455] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:38:43,456] {logging_mixin.py:109} INFO - [2021-09-22 10:38:43,456] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:38:43,471] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:38:43,483] {logging_mixin.py:109} INFO - [2021-09-22 10:38:43,483] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:38:43,490] {logging_mixin.py:109} INFO - [2021-09-22 10:38:43,490] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:38:43,496] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.048 seconds
+[2021-09-22 10:39:18,895] {processor.py:162} INFO - Started process (PID=22831) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:39:18,898] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:39:18,899] {logging_mixin.py:109} INFO - [2021-09-22 10:39:18,899] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:39:18,914] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:39:18,926] {logging_mixin.py:109} INFO - [2021-09-22 10:39:18,926] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:39:18,934] {logging_mixin.py:109} INFO - [2021-09-22 10:39:18,934] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:39:18,939] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.049 seconds
+[2021-09-22 10:39:57,957] {processor.py:162} INFO - Started process (PID=22879) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:39:57,960] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:39:57,962] {logging_mixin.py:109} INFO - [2021-09-22 10:39:57,962] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:39:57,980] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:39:57,994] {logging_mixin.py:109} INFO - [2021-09-22 10:39:57,993] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:39:58,002] {logging_mixin.py:109} INFO - [2021-09-22 10:39:58,002] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:39:58,008] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.058 seconds
+[2021-09-22 10:40:35,434] {processor.py:162} INFO - Started process (PID=22919) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:40:35,436] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:40:35,438] {logging_mixin.py:109} INFO - [2021-09-22 10:40:35,438] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:40:35,454] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:40:35,475] {logging_mixin.py:109} INFO - [2021-09-22 10:40:35,475] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:40:35,483] {logging_mixin.py:109} INFO - [2021-09-22 10:40:35,483] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:40:35,491] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.061 seconds
+[2021-09-22 10:41:13,859] {processor.py:162} INFO - Started process (PID=22955) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:41:13,861] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:41:13,863] {logging_mixin.py:109} INFO - [2021-09-22 10:41:13,863] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:41:13,879] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:41:13,893] {logging_mixin.py:109} INFO - [2021-09-22 10:41:13,892] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:41:13,901] {logging_mixin.py:109} INFO - [2021-09-22 10:41:13,901] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:41:13,907] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.053 seconds
+[2021-09-22 10:41:51,719] {processor.py:162} INFO - Started process (PID=22990) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:41:51,724] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:41:51,726] {logging_mixin.py:109} INFO - [2021-09-22 10:41:51,725] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:41:51,741] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:41:51,755] {logging_mixin.py:109} INFO - [2021-09-22 10:41:51,755] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:41:51,763] {logging_mixin.py:109} INFO - [2021-09-22 10:41:51,763] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:41:51,768] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.054 seconds
+[2021-09-22 10:42:31,133] {processor.py:162} INFO - Started process (PID=23026) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:42:31,135] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:42:31,136] {logging_mixin.py:109} INFO - [2021-09-22 10:42:31,136] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:42:31,149] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:42:31,161] {logging_mixin.py:109} INFO - [2021-09-22 10:42:31,160] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:42:31,168] {logging_mixin.py:109} INFO - [2021-09-22 10:42:31,167] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:42:31,173] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.043 seconds
+[2021-09-22 10:43:06,624] {processor.py:162} INFO - Started process (PID=23059) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:43:06,627] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:43:06,629] {logging_mixin.py:109} INFO - [2021-09-22 10:43:06,629] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:43:06,646] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:43:06,661] {logging_mixin.py:109} INFO - [2021-09-22 10:43:06,660] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:43:06,669] {logging_mixin.py:109} INFO - [2021-09-22 10:43:06,669] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:43:06,675] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.058 seconds
+[2021-09-22 10:43:43,024] {processor.py:162} INFO - Started process (PID=23094) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:43:43,026] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:43:43,027] {logging_mixin.py:109} INFO - [2021-09-22 10:43:43,027] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:43:43,041] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:43:43,053] {logging_mixin.py:109} INFO - [2021-09-22 10:43:43,053] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:43:43,061] {logging_mixin.py:109} INFO - [2021-09-22 10:43:43,061] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:43:43,068] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.047 seconds
+[2021-09-22 10:44:21,180] {processor.py:162} INFO - Started process (PID=23191) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:44:21,182] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:44:21,182] {logging_mixin.py:109} INFO - [2021-09-22 10:44:21,182] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:44:21,191] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:44:21,198] {logging_mixin.py:109} INFO - [2021-09-22 10:44:21,198] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:44:21,203] {logging_mixin.py:109} INFO - [2021-09-22 10:44:21,203] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:44:21,208] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.030 seconds
+[2021-09-22 10:44:57,757] {processor.py:162} INFO - Started process (PID=23225) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:44:57,759] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:44:57,760] {logging_mixin.py:109} INFO - [2021-09-22 10:44:57,760] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:44:57,774] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:44:57,785] {logging_mixin.py:109} INFO - [2021-09-22 10:44:57,785] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:44:57,792] {logging_mixin.py:109} INFO - [2021-09-22 10:44:57,792] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:44:57,797] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.045 seconds
+[2021-09-22 10:45:37,533] {processor.py:162} INFO - Started process (PID=23260) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:45:37,537] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:45:37,539] {logging_mixin.py:109} INFO - [2021-09-22 10:45:37,538] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:45:37,558] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:45:37,572] {logging_mixin.py:109} INFO - [2021-09-22 10:45:37,572] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:45:37,580] {logging_mixin.py:109} INFO - [2021-09-22 10:45:37,580] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:45:37,586] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.059 seconds
+[2021-09-22 10:46:18,668] {processor.py:162} INFO - Started process (PID=23295) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:46:18,671] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:46:18,673] {logging_mixin.py:109} INFO - [2021-09-22 10:46:18,672] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:46:18,689] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:46:18,702] {logging_mixin.py:109} INFO - [2021-09-22 10:46:18,702] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:46:18,710] {logging_mixin.py:109} INFO - [2021-09-22 10:46:18,709] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:46:18,716] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.053 seconds
+[2021-09-22 10:46:58,843] {processor.py:162} INFO - Started process (PID=23333) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:46:58,847] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:46:58,848] {logging_mixin.py:109} INFO - [2021-09-22 10:46:58,848] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:46:58,864] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:46:58,878] {logging_mixin.py:109} INFO - [2021-09-22 10:46:58,877] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:46:58,886] {logging_mixin.py:109} INFO - [2021-09-22 10:46:58,885] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:46:58,891] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.054 seconds
+[2021-09-22 10:47:38,962] {processor.py:162} INFO - Started process (PID=23378) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:47:38,965] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:47:38,966] {logging_mixin.py:109} INFO - [2021-09-22 10:47:38,966] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:47:38,982] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:47:38,997] {logging_mixin.py:109} INFO - [2021-09-22 10:47:38,997] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:47:39,005] {logging_mixin.py:109} INFO - [2021-09-22 10:47:39,005] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:47:39,011] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.055 seconds
+[2021-09-22 10:48:14,590] {processor.py:162} INFO - Started process (PID=23419) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:48:14,594] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:48:14,595] {logging_mixin.py:109} INFO - [2021-09-22 10:48:14,595] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:48:14,612] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:48:14,625] {logging_mixin.py:109} INFO - [2021-09-22 10:48:14,625] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:48:14,633] {logging_mixin.py:109} INFO - [2021-09-22 10:48:14,633] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:48:14,638] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.053 seconds
+[2021-09-22 10:48:54,543] {processor.py:162} INFO - Started process (PID=23457) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:48:54,550] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:48:54,552] {logging_mixin.py:109} INFO - [2021-09-22 10:48:54,551] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:48:54,564] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:48:54,574] {logging_mixin.py:109} INFO - [2021-09-22 10:48:54,574] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:48:54,579] {logging_mixin.py:109} INFO - [2021-09-22 10:48:54,579] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:48:54,592] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.052 seconds
+[2021-09-22 10:49:31,252] {processor.py:162} INFO - Started process (PID=23491) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:49:31,255] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:49:31,257] {logging_mixin.py:109} INFO - [2021-09-22 10:49:31,256] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:49:31,272] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:49:31,284] {logging_mixin.py:109} INFO - [2021-09-22 10:49:31,284] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:49:31,292] {logging_mixin.py:109} INFO - [2021-09-22 10:49:31,291] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:49:31,297] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.050 seconds
+[2021-09-22 10:50:09,245] {processor.py:162} INFO - Started process (PID=23539) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:50:09,248] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:50:09,250] {logging_mixin.py:109} INFO - [2021-09-22 10:50:09,250] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:50:09,267] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:50:09,280] {logging_mixin.py:109} INFO - [2021-09-22 10:50:09,280] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:50:09,288] {logging_mixin.py:109} INFO - [2021-09-22 10:50:09,288] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:50:09,294] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.055 seconds
+[2021-09-22 10:50:46,135] {processor.py:162} INFO - Started process (PID=23573) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:50:46,137] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:50:46,139] {logging_mixin.py:109} INFO - [2021-09-22 10:50:46,138] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:50:46,157] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:50:46,170] {logging_mixin.py:109} INFO - [2021-09-22 10:50:46,170] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:50:46,178] {logging_mixin.py:109} INFO - [2021-09-22 10:50:46,178] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:50:46,184] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.055 seconds
+[2021-09-22 10:51:22,755] {processor.py:162} INFO - Started process (PID=23907) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:51:22,759] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:51:22,761] {logging_mixin.py:109} INFO - [2021-09-22 10:51:22,760] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:51:22,779] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:51:22,792] {logging_mixin.py:109} INFO - [2021-09-22 10:51:22,792] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:51:22,801] {logging_mixin.py:109} INFO - [2021-09-22 10:51:22,800] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:51:22,806] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.057 seconds
+[2021-09-22 10:52:01,821] {processor.py:162} INFO - Started process (PID=23963) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:52:01,824] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:52:01,826] {logging_mixin.py:109} INFO - [2021-09-22 10:52:01,826] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:52:01,847] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:52:01,864] {logging_mixin.py:109} INFO - [2021-09-22 10:52:01,863] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:52:01,874] {logging_mixin.py:109} INFO - [2021-09-22 10:52:01,873] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:52:01,881] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.065 seconds
+[2021-09-22 10:52:39,569] {processor.py:162} INFO - Started process (PID=24054) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:52:39,572] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:52:39,574] {logging_mixin.py:109} INFO - [2021-09-22 10:52:39,573] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:52:39,590] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:52:39,603] {logging_mixin.py:109} INFO - [2021-09-22 10:52:39,602] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:52:39,610] {logging_mixin.py:109} INFO - [2021-09-22 10:52:39,610] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:52:39,617] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.053 seconds
+[2021-09-22 10:53:17,034] {processor.py:162} INFO - Started process (PID=24089) to work on /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:53:17,037] {processor.py:613} INFO - Processing file /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-09-22 10:53:17,039] {logging_mixin.py:109} INFO - [2021-09-22 10:53:17,038] {dagbag.py:496} INFO - Filling up the DagBag from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:53:17,055] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-09-22 10:53:17,068] {logging_mixin.py:109} INFO - [2021-09-22 10:53:17,068] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-22 10:53:17,076] {logging_mixin.py:109} INFO - [2021-09-22 10:53:17,075] {dag.py:2287} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-09-22 10:53:17,082] {processor.py:170} INFO - Processing /Users/medisettinarendra/Downloads/spotify_airflow/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.053 seconds
